@@ -1,0 +1,1 @@
+CRISPR-armored CAR T cells will co-opt tumor-specific promoters—NR4A2, RGS16—to trigger on-site release of IL-12/IL-2 only where malignant tissue rewires its own gene circuits, converting the tumor’s transcriptional identity into a self-targeting immunostimulatory platform.

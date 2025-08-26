@@ -1,0 +1,1 @@
+Glucose scarcity rewires TNF-receptor fate by ATP-starving the ubiquitin machinery, flipping the TRAF2/cIAP1-RIPK1 balance from necroptosis to NF-κB survival; uniquely exploiting tumor metabolic stress as a druggable switch to convert resistance into therapy-induced cell death.

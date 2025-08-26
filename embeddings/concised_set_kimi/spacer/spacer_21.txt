@@ -1,0 +1,1 @@
+Allosteric ligand binding to disordered motifs tunes phase separation by re-patterning hydration shells—ensemble shifts in polar/charged residue distributions displace ordered water, reorient local electric fields, and reweigh solvation entropy, establishing solvent reorganization as the dominant thermodynamic lever distinct from protein-protein contacts.

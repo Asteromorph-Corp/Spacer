@@ -1,0 +1,172 @@
+{
+  "concept": "Predictable control of progenitor cell fate may be achieved through systematic manipulation of phase relationships between intrinsic oscillatory transcription factors and externally imposed periodic signals. This approach leverages phase-locking mechanisms between endogenous developmental oscillators like Hes1 and environmental cues to guide differentiation outcomes with temporal precision.",
+  "rationale": [
+    {
+      "statement": "Oscillatory transcription factors coordinate cell fate decisions through evolutionarily conserved phase-locking mechanisms with environmental cues. The HES/Hes-family segmentation clocks demonstrate shared architecture of coupled oscillators across species, despite differences in biochemical reaction speeds. Disruptions in oscillator synchrony causally link to developmental pathologies, including segmentation defects from failed phase-locking in vertebrate embryos.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2019.07.090",
+        "10.1017/s0021878201008214",
+        "10.1063/5.0021836",
+        "10.1073/pnas.2401604121",
+        "10.1097/wnr.0b013e32830bfba4",
+        "10.1103/physreve.72.036217",
+        "10.1103/physrevlett.111.024102",
+        "10.1126/science.1133141",
+        "10.1126/science.1142538",
+        "10.1126/science.aba7668",
+        "10.1139/bcb-2018-0250",
+        "10.1186/1752-0509-4-167",
+        "10.1242/dev.093278",
+        "10.1242/dev.102111",
+        "10.1371/journal.pone.0007057",
+        "10.1534/genetics.114.163642",
+        "10.2142/biophys.48.097",
+        "10.2976/1.3027088",
+        "10.7554/elife.08438",
+        "10.7554/elife.61358"
+      ]
+    },
+    {
+      "statement": "Multi-scale temporal coordination between circadian and ultradian rhythms provides a mechanistic framework for fate control. Circadian regulators like CLOCK/BMAL1 functionally couple with Hes family members in mouse liver, while theoretical models support master circadian rhythms entraining ultradian oscillator populations. Serum-induced STAT signaling drives Hes1 oscillations, suggesting circadian-controlled metabolic cycles could mediate cross-scale temporal organization.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2016.11.053",
+        "10.1073/pnas.0701837104",
+        "10.1074/jbc.m304564200",
+        "10.1126/sciadv.abo5506",
+        "10.1126/science.1074560",
+        "10.1177/074873048700200106",
+        "10.1186/1742-4682-3-12",
+        "10.3389/fphys.2018.01178",
+        "10.3390/ijms20184585",
+        "10.3858/emm.2012.44.11.073"
+      ]
+    },
+    {
+      "statement": "The Hes1 oscillatory system serves as an exemplary model for phase-dependent differentiation control. Its 2-5 hour ultradian periods in progenitor cells align temporally with multi-day fate decisions, enabling repeated phase manipulations. Cell-to-cell differences in Hes1 amplitude and period correlate with differentiation outcomes, while negative feedback loops provide dampening mechanisms that maintain rhythmic stability during perturbations.",
+      "supporting_dois": [
+        "10.1007/s11538-025-01447-9",
+        "10.1016/j.celrep.2012.05.017",
+        "10.1016/j.cels.2017.09.013",
+        "10.1016/j.isci.2021.103198",
+        "10.1038/s41467-019-10734-8",
+        "10.1073/pnas.2113527118",
+        "10.1089/cmb.2007.0029",
+        "10.1096/fj.201600872r",
+        "10.1098/rsif.2012.0028",
+        "10.1101/gad.1823109",
+        "10.1109/cdc.2010.5717982",
+        "10.1109/cdc.2015.7402297",
+        "10.1111/j.1365-2443.2010.01413.x",
+        "10.1126/science.1074560",
+        "10.1126/science.1205369",
+        "10.1186/s12859-020-03598-z",
+        "10.1242/dev.112649",
+        "10.1242/dev.182204",
+        "10.1371/journal.pone.0023895",
+        "10.3389/fams.2018.00051",
+        "10.3389/fnins.2011.00078",
+        "10.3390/genes2010219"
+      ]
+    },
+    {
+      "statement": "Non-invasive physical and chemical methods enable precise entrainment of cellular oscillators. Low-intensity focused ultrasound modulates proliferation and differentiation in normal human progenitor cells without damage, while microfluidic platforms deliver controlled oscillatory chemical signals. These approaches effectively modulate intracellular calcium oscillations and second messenger systems, providing robust mechanisms to entrain endogenous gene networks.",
+      "supporting_dois": [
+        "10.1002/ange.201713080",
+        "10.1002/biot.201700382",
+        "10.1002/ctd2.259",
+        "10.1002/jcp.30911",
+        "10.1021/ac5019843",
+        "10.1021/acs.analchem.7b01967",
+        "10.1021/acs.analchem.8b02442",
+        "10.1021/acschemneuro.8b00483",
+        "10.1039/d0lc00140f",
+        "10.1039/d1lc00667c",
+        "10.1093/cercor/bhac370",
+        "10.1096/fj.04-1601fje",
+        "10.1097/00005344-199106191-00003",
+        "10.1142/s021833900500146x",
+        "10.1143/jjap.46.4435",
+        "10.1155/2019/6082304",
+        "10.1155/2021/8861465",
+        "10.1210/mend.12.1.0055",
+        "10.1371/journal.pone.0004847",
+        "10.2174/157489361001150309142335",
+        "10.3389/fncir.2013.00049",
+        "10.3892/ol.2017.6472",
+        "10.7554/elife.97754",
+        "10.7554/elife.97754.3"
+      ]
+    },
+    {
+      "statement": "Advanced experimental platforms enable systematic mapping of phase-to-fate relationships. Intestinal organoids and cultured liver progenitors maintain stability over extended periods while preserving physiologically relevant cell-cell interactions. Integration with super-resolution microscopy and live-cell imaging allows real-time quantification of phase relationships and downstream fate decisions with subcellular precision.",
+      "supporting_dois": [
+        "10.1002/cpz1.330",
+        "10.1002/smll.200800055",
+        "10.1007/s13402-024-00958-2",
+        "10.1016/j.cell.2014.11.050",
+        "10.1016/j.crmeth.2022.100244",
+        "10.1038/s41467-022-32465-z",
+        "10.1038/s41598-021-96321-8",
+        "10.1038/s44320-025-00091-8",
+        "10.1063/5.0041027",
+        "10.1073/pnas.0807705105",
+        "10.1073/pnas.1318496111",
+        "10.1073/pnas.1320474111",
+        "10.1101/gad.294546.116",
+        "10.1111/j.1365-2818.2009.03188.x",
+        "10.1126/sciadv.abb5953",
+        "10.1126/science.1242366",
+        "10.1364/boe.7.004198",
+        "10.1364/oe.16.009614",
+        "10.1634/stemcells.2006-0664",
+        "10.3389/fcell.2020.00375",
+        "10.3390/cells9040822",
+        "10.3390/organoids4010006",
+        "10.3727/000000007783465154",
+        "10.3727/096368912x639026",
+        "10.3748/wjg.v23.i6.964",
+        "10.3791/57383",
+        "10.3791/64917"
+      ]
+    },
+    {
+      "statement": "Causal evidence demonstrates that stimulus timing relative to oscillator phase determines biological outcomes. Studies in synchronous animal cells show heat shock stimuli applied at different cell cycle points produce predictable biphasic phase-response curves. Nonlinear dynamics theory predicts that specific phase-locking relationships between driving signals and biological oscillators lead to single, predominant steady-state outputs corresponding to predictable cell fate trajectories.",
+      "supporting_dois": [
+        "10.1016/j.compbiolchem.2022.107689",
+        "10.1038/s41592-021-01346-6",
+        "10.1046/j.1365-2184.2000.00175.x",
+        "10.1073/pnas.0809227106",
+        "10.1080/09553007114550601",
+        "10.1093/bioinformatics/btae525",
+        "10.1126/science.1205369",
+        "10.1159/000131444",
+        "10.1242/jcs.105.3.711",
+        "10.1371/journal.pcbi.1001040",
+        "10.2307/3575300"
+      ]
+    },
+    {
+      "statement": "Temporal control of differentiation represents a transformative advance for regenerative medicine and developmental biology. This approach enables directed stem cell therapies beyond static interventions, enhances precision in tissue engineering over traditional molecular targeting, and provides insights into congenital disorders arising from rhythmic disruptions during development.",
+      "supporting_dois": [
+        "10.1007/s44164-022-00032-x",
+        "10.1016/j.celrep.2020.107661",
+        "10.1017/s1355617709090845",
+        "10.1021/acsbiomaterials.8b00532",
+        "10.1080/09291016.2011.638111",
+        "10.1103/physreve.95.030201",
+        "10.1123/mcj.2.1.34",
+        "10.1126/sciadv.aba7606",
+        "10.1126/sciadv.abe7204",
+        "10.1152/jn.01095.2003",
+        "10.1155/2015/792843",
+        "10.1155/2017/2057168",
+        "10.1371/journal.pcbi.1000760",
+        "10.1371/journal.pone.0231326",
+        "10.3389/fgene.2016.00016",
+        "10.3389/fnins.2024.1269577",
+        "10.3389/fpsyg.2014.00018",
+        "10.3389/fpsyg.2022.867191"
+      ]
+    }
+  ]
+}

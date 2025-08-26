@@ -1,0 +1,1 @@
+Voltage-gated calcium nanoclusters at the axon initial segment instantiate a logic gate where millisecond-scale calcium transients trigger CaMKII phosphorylation of Nav1.6, dynamically rewriting neuronal excitability through spatially confined kinase-phosphatase feedback loops that explain ANK3/SCN8A pathology.

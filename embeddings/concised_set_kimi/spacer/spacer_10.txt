@@ -1,0 +1,1 @@
+Condensate viscosity and surface tension act as rheostats that set transcriptional burst timing by tuning TF exchange kinetics; we will systematically mutate IDRs in pluripotency factors to alter condensate rheology while preserving function, directly linking physical material properties to developmental gene expression noise and fate decisions.

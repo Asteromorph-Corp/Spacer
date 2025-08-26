@@ -1,0 +1,1 @@
+MCL-1’s metabolic and anti-apoptotic functions diverge temporally; by swapping in BCL-XL or BCL-2 at defined developmental checkpoints in Mcl-1-null mice, we will expose how late-stage metabolism outruns anti-apoptotic redundancy, pinpointing the exact window and pathways where MCL-1 becomes irreplaceable.

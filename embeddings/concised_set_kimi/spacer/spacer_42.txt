@@ -1,0 +1,1 @@
+Mechanical curvature imposes local Dzyaloshinskii-Moriya dominance by magnetoelastically re-engineering spin Hamiltonians in atomically-thin magnets; reversible strain gradients thus become a continuous, on-chip knob for sculpting emergent topological textures, converting structural elasticity into programmable magnetic topology.

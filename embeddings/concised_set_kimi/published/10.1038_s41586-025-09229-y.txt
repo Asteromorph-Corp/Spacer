@@ -1,0 +1,1 @@
+Nickel scarcity triggers a metabolic switch in methanogens wherein the Hmd-Elp system supplants canonical hydrogenases, driving electron bifurcation through conserved Elp-Hdr motifs that sustain energy efficiency. Testing this universal nickel-coping mechanism reveals how pathway plasticity governs methane flux in nickel-depleted ecosystems.

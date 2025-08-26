@@ -1,0 +1,1 @@
+We will create programmable riboswitches where metabolite-responsive aptamers drive calibrated conformational cascades through engineered stem-loop reconfigurations, translating distinct metabolite combinations into precise translational outputs via modular RNA networks that map chemical fingerprints directly to gene expression states.

@@ -1,0 +1,1 @@
+Engineering allosteric mutations in GT-B fold glycosyltransferases exploits inter-domain hinge flexibility to create single-residue molecular switches that toggle between linear and branched polysaccharide synthesis modes, enabling rapid exploration of diverse polymer architectures without extensive pathway reconstruction for biomaterials applications.

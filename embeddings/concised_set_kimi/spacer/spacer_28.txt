@@ -1,0 +1,1 @@
+Phosphorylation-triggered ubiquitination of histone deacetylases creates bistable epigenetic switches that lock transient stress into lasting chromatin opening; cooperative kinase-HDAC feedback yields hysteresis, while the ubiquitin system shifts from degradation to chromatin remodeling, permanently boosting proteostatic gene expression across aging and generations.

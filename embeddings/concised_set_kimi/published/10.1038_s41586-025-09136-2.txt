@@ -1,0 +1,1 @@
+Achieving natural-level catalysis computationally, we hypothesize that TIM-barrel backbone fragments encode latent catalytic landscapes; by mining these scaffolds for non-conserved residues and designing entirely new active sites within them, we transcend empirical optimization to program de novo enzymes rivaling evolved efficiency.

@@ -1,0 +1,1 @@
+Oscillatory transcription factors like Hes1 can be phase-locked with external periodic signals to predictably control progenitor cell differentiation, exploiting the natural coupling between endogenous developmental oscillators and environmental cues to achieve temporal precision in fate specification through systematic entrainment of cellular rhythms.

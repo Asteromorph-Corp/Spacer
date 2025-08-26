@@ -1,0 +1,15 @@
+## Task
+Identify whether the provided ideas share the same topic or not.
+
+## Elements to Consider
+If the ideas share the same subject matter or theme, they are likely to be on the same topic.
+
+## Instructions
+1. Read the two provided ideas carefully.
+2. Only return "yes" or "no" without any additional text or explanation.
+
+## First Idea
+{{first_idea}}
+
+## Second Idea
+{{second_idea}}

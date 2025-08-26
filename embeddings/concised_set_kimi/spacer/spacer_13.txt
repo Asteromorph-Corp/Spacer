@@ -1,0 +1,1 @@
+Aging rewires BiP/GRP78 chaperone timing at mitochondria-ER contact sites, desynchronizing PERK-mediated ER stress sensing from mitochondrial ATP delivery. By targeting phosphorylation-controlled BiP ATPase cycles, we will decode how mistimed UPR activation collapses neuronal proteostasis, revealing a metabolic timer that distinguishes adaptive from maladaptive stress responses.

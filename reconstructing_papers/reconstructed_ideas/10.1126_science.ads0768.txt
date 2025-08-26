@@ -1,0 +1,1 @@
+The integron system, known for capturing gene cassettes, harbors a diverse array of antiphage systems in Vibrio cholerae. These antiphage systems encode defense mechanisms that may lead to cell lysis or growth arrest. A biobank of cassettes is established to systematically identify and characterize these diverse antiphage systems.

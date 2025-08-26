@@ -1,0 +1,1 @@
+HTLV-1c viral proteins hijack intrinsic apoptosis by selectively upregulating MCL-1, creating infected cell survival advantage. Single-cell omics will decode this evasion mechanism, while targeted MCL-1 inhibition combined with antiretroviral therapy exploits this dependency to selectively eliminate viral reservoirs and achieve curative clearance.

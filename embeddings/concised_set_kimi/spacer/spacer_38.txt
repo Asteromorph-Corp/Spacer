@@ -1,0 +1,1 @@
+Cells encode state decisions in hierarchically ordered ATP-allocation patterns; we predict transitions by modeling metabolic flux hierarchies constrained by thermodynamics, exploiting the insight that upstream energy flux limits downstream fate choices—a bioenergetic blueprint for cellular identity.

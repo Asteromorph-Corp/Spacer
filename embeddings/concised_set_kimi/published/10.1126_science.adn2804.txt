@@ -1,0 +1,1 @@
+Peroxisome-mitochondria contacts act as gated conduits that reroute mitochondrial ROS into peroxisomal catalase for rapid detoxification. We will test whether disrupting ACBD5-PTPIP51 tethers stalls mitochondrial redox recovery, revealing how an extrinsic peroxisomal antioxidant circuit safeguards mitochondria through direct organellar ROS hand-offs.

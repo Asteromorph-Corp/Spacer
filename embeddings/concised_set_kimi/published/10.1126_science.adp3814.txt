@@ -1,0 +1,1 @@
+vCA1 neurons multiplex identity and sex cues through parallel rate and theta channels; selectively optogenetic silencing of each channel dissociates identity recognition from sex discrimination, revealing a dual-coding architecture that generalises multidimensional memory beyond the social domain.

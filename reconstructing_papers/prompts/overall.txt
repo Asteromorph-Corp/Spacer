@@ -1,0 +1,20 @@
+## Task
+Identify whether the provided ideas are identical or not.
+
+## Elements to Consider
+Identify if the ideas share:
+- Biological target (e.g., protein, gene, pathway)
+- Conceptual focus (e.g., mechanism, process)
+- Experimental approach (e.g., technique, method)
+- Unique elements (e.g., specific reagents, hardware)
+
+## Instructions
+1. Read the two provided ideas carefully.
+2. Compare them based on the elements listed above.
+3. Only return "yes" or "no" without any additional text or explanation.
+
+## First Idea
+{{first_idea}}
+
+## Second Idea
+{{second_idea}}

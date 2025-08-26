@@ -1,0 +1,1 @@
+Stochastic resonance through controlled calcium noise injection can restore oscillatory coherence in hepatocellular carcinoma cells, exploiting their nonlinear dynamics to re-establish calcium-dependent cell cycle checkpoints that become disrupted during malignant transformation, selectively targeting cancer's simplified signaling states.

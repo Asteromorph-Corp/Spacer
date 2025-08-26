@@ -1,0 +1,98 @@
+{
+  "concept": "Voltage-gated Nav1.7 and Nav1.8 channels in nociceptor terminals function as intrinsic activity sensors through use-dependent slow inactivation. This mechanism creates molecular memory of recent firing patterns that autonomously modulates subsequent excitability. The accumulated slow-inactivated channel states establish self-limiting feedback control of nociceptive signaling without requiring external modulatory inputs.",
+  "rationale": [
+    {
+      "statement": "Nav1.7 and Nav1.8 channels exhibit use-dependent slow inactivation with physiologically relevant time constants. Electrophysiological studies using high-resolution patch-clamp demonstrate that repetitive firing leads to cumulative channel inactivation. The recovery time constants of 0.5-1.5 seconds align with nociceptive firing patterns, enabling encoding of stimulus history.",
+      "supporting_dois": [
+        "10.1002/cpph.74",
+        "10.1021/acsmedchemlett.5b00059",
+        "10.1085/jgp.202413596",
+        "10.1124/mol.116.106401",
+        "10.1152/jn.00113.2015",
+        "10.1152/jn.01033.2006",
+        "10.1371/journal.pone.0128653",
+        "10.1523/jneurosci.0445-10.2010",
+        "10.1523/jneurosci.18-23-09607.1998",
+        "10.1523/jneurosci.23-32-10338.2003",
+        "10.1523/jneurosci.2773-14.2014"
+      ]
+    },
+    {
+      "statement": "Channel availability directly determines neuronal excitability by controlling membrane depolarization capacity. The proportion of slow-inactivated channels serves as a biophysical record of recent high-frequency activity. This creates molecular memory where firing history is encoded in channel state distributions.",
+      "supporting_dois": [
+        "10.1002/hipo.20667",
+        "10.1016/j.cub.2023.03.043",
+        "10.1016/j.pain.2010.12.035",
+        "10.1046/j.1460-9568.2000.00871.x",
+        "10.1111/j.1469-7793.2001.0385f.x",
+        "10.1152/jn.01033.2006",
+        "10.1152/jn.01056.2010",
+        "10.1152/jn.1996.75.2.963",
+        "10.1186/1471-2202-13-129",
+        "10.1523/jneurosci.17-17-06639.1997",
+        "10.1523/jneurosci.18-05-01893.1998",
+        "10.1523/jneurosci.23-32-10338.2003",
+        "10.1523/jneurosci.4664-05.2006",
+        "10.7554/elife.49974",
+        "10.7554/elife.54940"
+      ]
+    },
+    {
+      "statement": "Nociceptor terminals contain high-density clusters of Nav1.7 and Nav1.8 channels, making these specialized subdomains critical sites for excitability modulation. The spatial organization supports localized activity sensing and autonomous feedback control at action potential initiation sites.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2017.02.064",
+        "10.1073/pnas.1607541114",
+        "10.1101/pdb.top075143",
+        "10.1113/jphysiol.2003.042127",
+        "10.1126/sciadv.aax4755",
+        "10.1152/ajpgi.00122.2019",
+        "10.1186/1744-8069-6-84",
+        "10.1186/1744-8069-8-82",
+        "10.1371/journal.pone.0152405",
+        "10.1523/eneuro.0415-17.2018"
+      ]
+    },
+    {
+      "statement": "This intrinsic mechanism operates independently as a primary control layer while being modulated by external factors. Dysregulation in genetic channelopathies demonstrates its functional significance in pain disorders. The mechanism provides autonomous homeostatic control that complements other regulatory systems.",
+      "supporting_dois": [
+        "10.1038/ncomms1795",
+        "10.1038/s41598-018-20221-7",
+        "10.1085/jgp.116.5.653",
+        "10.1093/brain/awh514",
+        "10.1101/lm.6.3.284",
+        "10.1111/bph.15196",
+        "10.1111/cns.13060",
+        "10.1111/jnc.16209",
+        "10.1113/jp271369",
+        "10.1113/jp272547",
+        "10.1146/annurev-neuro-092920-121538",
+        "10.1152/jn.00002.2017",
+        "10.1159/000430211",
+        "10.1515/bmc.2011.026",
+        "10.1523/jneurosci.0462-16.2016",
+        "10.1523/jneurosci.1049-18.2018",
+        "10.1523/jneurosci.1738-07.2007",
+        "10.1523/jneurosci.1914-19.2020",
+        "10.1523/jneurosci.1945-12.2012",
+        "10.1523/jneurosci.2773-14.2014",
+        "10.1523/jneurosci.3443-08.2008",
+        "10.3389/fncel.2017.00353",
+        "10.3389/fncel.2023.1241450",
+        "10.4161/chan.2.4.6745"
+      ]
+    },
+    {
+      "statement": "The therapeutic significance lies in addressing current gaps in pain management by targeting endogenous regulatory mechanisms rather than symptoms. Understanding intrinsic channel-based self-regulation offers novel approaches for restoring natural feedback without off-target effects.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2019.01.056",
+        "10.1016/j.pain.2010.12.035",
+        "10.1016/j.taap.2021.115676",
+        "10.1021/cn200024z",
+        "10.1126/scisignal.aah4874",
+        "10.1126/scitranslmed.aad7653",
+        "10.1213/ane.0b013e3182542843",
+        "10.1523/jneurosci.23-04-01169.2003"
+      ]
+    }
+  ]
+}

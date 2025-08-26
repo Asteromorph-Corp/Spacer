@@ -1,0 +1,1 @@
+GPR45 acts as an intrinsic amplifier of ciliary MC4R-ADCY3 signaling by spatially organizing melanocortin microdomains; optogenetic GPR45 activation in PVH cilia will reveal how ciliary architecture orchestrates GPCR crosstalk and establishes GPR45 as a tunable enhancer of melanocortin sensitivity for obesity therapy.

@@ -1,0 +1,1 @@
+MCL-1's anti-apoptotic and metabolic functions can be mechanistically separated through conditional rescue systems using BCL-XL/BCL-2 variants in Mcl-1-deficient models, revealing developmental windows where metabolic compensation fails and identifying BCL-2 family member-specific pathways to optimize therapeutic targeting strategies.

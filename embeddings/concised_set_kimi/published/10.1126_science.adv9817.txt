@@ -1,0 +1,1 @@
+We hypothesize that protein equilibrium ensembles are governed by learnable low-dimensional manifolds; BioEmu exploits this by distilling MD data into a generative model that rapidly samples diverse functional motions, amortizing millisecond-scale accuracy into sub-second predictions of cryptic pockets and free energies within 1 kcal/mol.

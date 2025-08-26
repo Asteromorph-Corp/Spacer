@@ -1,0 +1,1 @@
+CaMKII-mediated phosphorylation transforms HDAC4 from a constitutive nuclear repressor into an activity-dependent molecular switch by disrupting nuclear localization sequences, creating bidirectional regulation where basal activity maintains transcriptional repression while heightened synaptic activity triggers cytoplasmic sequestration and derepresses synaptic genes.

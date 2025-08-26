@@ -1,0 +1,1 @@
+High-value plant therapeutics arise from enzymatic subpathways whose genes form discrete co-expression modules. mpXsn multiplexes single-cell perturbations across tissues, stages, and elicitors to reveal these modules, rate-limiting steps, and hidden cofactors, enabling complete pathway elucidation and scalable heterologous production.

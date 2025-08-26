@@ -1,0 +1,122 @@
+{
+  "concept": "Mitochondrial-endoplasmic reticulum contact sites may function as dynamic calcium microdomains that integrate metabolic state with regenerative signaling through phospholipid-mediated selective permeability barriers. Manipulating these membrane interfaces could reveal how subcellular ionic compartments translate systemic metabolic cues into spatially-restricted calcium transients that control regeneration-associated transcription.",
+  "rationale": [
+    {
+      "statement": "Mitochondrial-endoplasmic reticulum contact sites serve as specialized platforms where mitochondrial metabolic signals directly influence endoplasmic reticulum calcium release. Changes in mitochondrial membrane potential are physically and functionally coupled to local calcium signals through contact site architecture. In vivo studies demonstrate that contact site proteins like MICU1 and Grp75 are essential for tissue regeneration, causally linking metabolic-calcium integration to regenerative outcomes.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2021.110213",
+        "10.1016/j.isci.2024.110510",
+        "10.1038/s41540-021-00185-7",
+        "10.1073/pnas.1818830116",
+        "10.1083/jcb.200604016",
+        "10.1083/jcb.200608073",
+        "10.1126/science.280.5370.1763",
+        "10.1161/circ.148.suppl_1.17355",
+        "10.1172/jci.insight.154447",
+        "10.1186/1478-811x-9-19",
+        "10.2174/1566524011313020008",
+        "10.3390/cells14070482",
+        "10.3390/cells2030574",
+        "10.3791/54899"
+      ]
+    },
+    {
+      "statement": "An actively maintained phospholipid microenvironment at contact sites creates selective barriers that compartmentalize calcium signals. Lipid transfer proteins like ORP5 facilitate phosphatidylserine transport between organelles, directly regulating mitochondrial calcium uptake. The p97-UBXD8 complex controls membrane lipid saturation through the SREBP1-SCD1 pathway, demonstrating that lipid composition functionally determines contact site integrity and signaling capacity.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2022.111364",
+        "10.1021/acs.jpcb.3c01962",
+        "10.1038/s41467-022-31462-6",
+        "10.1038/s41467-023-36298-2",
+        "10.1038/s41467-025-56666-4",
+        "10.1038/s42003-023-05657-6",
+        "10.1038/srep30777",
+        "10.1042/bj3310217",
+        "10.1046/j.1432-1327.1999.00658.x",
+        "10.1051/mmnp/20127608",
+        "10.1073/pnas.1111314108",
+        "10.1073/pnas.2301410120",
+        "10.1083/jcb.200604016",
+        "10.1083/jcb.202112107",
+        "10.1126/science.1175088",
+        "10.1126/science.280.5370.1763",
+        "10.1186/1478-811x-9-19",
+        "10.1371/journal.pbio.1001969",
+        "10.1371/journal.pone.0154280",
+        "10.2139/ssrn.3449275",
+        "10.3390/cells12151974",
+        "10.3390/cells2030574",
+        "10.3791/50215",
+        "10.3791/50215-v",
+        "10.3934/biophy.2017.2.222",
+        "10.7554/elife.84279"
+      ]
+    },
+    {
+      "statement": "Specific phospholipids directly modulate calcium channel activity at contact sites. Phosphatidylinositol 4,5-bisphosphate regulates IP3 receptors and STIM-Orai complexes, translating lipid composition changes into specific calcium flux patterns. Alterations in phosphoinositide levels influence STIM1 puncta formation, providing precise control over calcium transients based on the local lipid microenvironment.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2023.112238",
+        "10.1016/s0021-9258(20)89505-2",
+        "10.1038/s41467-019-11646-3",
+        "10.1038/srep29634",
+        "10.1042/bj20090884",
+        "10.1074/jbc.273.23.14067",
+        "10.1074/jbc.m103274200",
+        "10.1074/jbc.m109.012252",
+        "10.1074/jbc.m409353200",
+        "10.1074/jbc.m704339200",
+        "10.1186/1478-811x-9-19",
+        "10.1242/jcs.01559"
+      ]
+    },
+    {
+      "statement": "Localized calcium signals at contact sites drive long-term regenerative transcription through redox signaling and calcium-sensitive transcription factors. Mitochondrial calcium uptake modulates reactive oxygen species production, activating redox-sensitive transcription factors. Calcium-sensitive regulators like NFAT and CREB integrate transient ionic signals into persistent chromatin remodeling, bridging metabolic cues to enduring regenerative gene expression.",
+      "supporting_dois": [
+        "10.1002/glia.22797",
+        "10.1002/jcp.20498",
+        "10.1002/jcp.24790",
+        "10.1002/jcp.25212",
+        "10.1016/j.molcel.2016.11.011",
+        "10.1016/s0021-9258(20)79766-8",
+        "10.1038/s41392-020-0155-5",
+        "10.1046/j.1471-4159.2001.00645.x",
+        "10.1073/pnas.0811274106",
+        "10.1073/pnas.0904132106",
+        "10.1083/jcb.201203154",
+        "10.1083/jcb.201908164",
+        "10.1093/nar/gkae085",
+        "10.1126/science.1646483",
+        "10.1126/scisignal.aaj1978",
+        "10.1152/ajpcell.00283.2016",
+        "10.1186/s12964-024-01617-7"
+      ]
+    },
+    {
+      "statement": "Advanced imaging methodologies and molecular tools demonstrate the feasibility of manipulating contact site calcium microdomains. Super-resolution microscopy resolves nanoscale contact site structures, while genetically encoded calcium indicators enable quantitative measurement of compartmentalized dynamics. The unique contribution lies in uncovering how lipid microenvironments dictate calcium signal specificity beyond global calcium perturbations.",
+      "supporting_dois": [
+        "10.1002/anie.202108443",
+        "10.1016/j.ceca.2023.102837",
+        "10.1021/ac202595g",
+        "10.1021/acs.jpcb.0c03067",
+        "10.1021/acschembio.9b00691",
+        "10.1021/bi035480w",
+        "10.1021/bi062140c",
+        "10.1021/jacs.6b11760",
+        "10.1038/ncomms5153",
+        "10.1038/s41467-021-22882-x",
+        "10.1038/srep38035",
+        "10.1073/pnas.2415268122",
+        "10.1074/jbc.m308798200",
+        "10.1074/jbc.m509645200",
+        "10.1117/12.2652685",
+        "10.1126/sciadv.aay7193",
+        "10.1139/bcb-78-3-217",
+        "10.1364/cleo_at.2016.am4o.4",
+        "10.1371/journal.pbio.0020163",
+        "10.21769/bioprotoc.3504",
+        "10.3390/ijms160714695",
+        "10.3791/66862",
+        "10.7554/elife.55008"
+      ]
+    }
+  ]
+}

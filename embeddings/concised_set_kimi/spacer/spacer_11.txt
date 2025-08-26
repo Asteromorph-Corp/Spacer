@@ -1,0 +1,1 @@
+We hypothesize that single-residue substitutions at the GT-B hinge can act as allosteric molecular switches, exploiting inter-domain flex to toggle glycosyltransferases between linear and branched polysaccharide synthesis modes without disturbing catalysis, enabling rapid, pathway-independent reprogramming of cell-wall polymer architecture.

@@ -1,0 +1,1 @@
+We hypothesize that transcriptomic cell types adhere to cryptic spatial codes within brain architecture. By co-registering single-cell multi-omics profiles onto a 1-μm resolution atlas of 916 precisely delineated structures, we will uncover molecularly defined spatial patterns that transcend classical anatomical boundaries.

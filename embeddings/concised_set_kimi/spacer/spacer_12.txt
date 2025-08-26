@@ -1,0 +1,1 @@
+Reversible cysteine oxidation in GAPDH and PKM2 operates as a redox-driven metabolic switch that dynamically directs macrophage polarization by rerouting glycolytic flux to activate NRF2 and HIF-1α, establishing oxidative modification of glycolytic enzymes as the mechanistic link between cellular redox state and inflammatory resolution.

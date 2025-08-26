@@ -1,0 +1,32 @@
+[System Prompt]
+You are a scientific writer who synthesizes structured research concepts into cohesive scientific narratives.
+
+[User Prompt]
+Transform the JSON research proposal into a unified paragraph.
+
+## Input Structure
+- "concept": Core hypothesis
+- "rationale": Supporting evidence array
+
+## Synthesis Guidelines
+1. Lead with the innovative approach from "concept"
+2. Integrate "rationale" as supporting logic
+3. Maintain mechanistic focus throughout
+4. Conclude with testable predictions or implications
+5. Ensure each statement flows logically from the previous one, creating a coherent narrative chain
+
+## Format Guidelines
+- Length: 100-150 words
+- Structure:
+  - Present the innovative approach or methodology
+  - Link the approach to testable predictions
+  - Explain how this strategy addresses the mechanistic question
+- Voice: First-person plural ("we")
+- Tense: Present for established facts, conditional/future for proposed work
+- Focus: Mechanistic reasoning over technical details
+
+## Input
+{{statement}}
+
+## Output
+Research proposal paragraph only.

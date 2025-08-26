@@ -1,0 +1,1 @@
+DNA methylation at CpG sites can be utilized as a digital barcode for clonal identity. The EPI-Clone method employs single-cell profiling at single-CpG resolution to track lineage by leveraging stochastic epimutation patterns. This approach enables the mapping of clonal differentiation trajectories of stem cell clones without genetic engineering.

@@ -1,0 +1,127 @@
+{
+  "concept": "Metabolic perturbations in medullary thymic epithelial cells may alter tissue-restricted antigen processing pathways, generating distinct self-peptide repertoires that could shift negative selection thresholds during T cell central tolerance induction. This suggests metabolic checkpoints may link cellular energetics to autoimmune susceptibility, revealing potential therapeutic targets.",
+  "rationale": [
+    {
+      "statement": "Cellular metabolic pathways, primarily regulated by mTOR and AMPK, control protein turnover rates in medullary thymic epithelial cells by modulating autophagy and proteasome activity. The mTOR pathway serves as a master regulator that directly controls autophagy flux, thereby influencing the pool of endogenous proteins available for processing into self-peptides.",
+      "supporting_dois": [
+        "10.1046/j.1365-2443.2003.00615.x",
+        "10.1055/s-0032-1323742",
+        "10.1073/pnas.0509256103",
+        "10.1073/pnas.102645699",
+        "10.1074/jbc.m115.667345",
+        "10.1080/15548627.2017.1376161",
+        "10.1080/15548627.2022.2074105",
+        "10.1083/jcb2004oia8",
+        "10.1084/jem.193.10.1179",
+        "10.1084/jem.20122149",
+        "10.1111/j.1749-6632.1993.tb22864.x",
+        "10.1126/science.1177627",
+        "10.1126/scisignal.aav3249",
+        "10.3390/ijms20225543",
+        "10.4049/jimmunol.0804087",
+        "10.4161/auto.24374",
+        "10.4161/auto.7139",
+        "10.4161/cc.7.23.7121"
+      ]
+    },
+    {
+      "statement": "The specific repertoire of self-peptides presented by MHC molecules on medullary thymic epithelial cells determines the affinity-based interactions that drive negative selection of autoreactive thymocytes. By modulating antigen processing pathways, metabolic perturbations can alter self-peptide repertoires and directly impact downstream negative selection thresholds.",
+      "supporting_dois": [
+        "10.1073/pnas.0509256103",
+        "10.1073/pnas.102645699",
+        "10.1084/jem.193.10.1179",
+        "10.1093/intimm/12.9.1353",
+        "10.1098/rsif.2018.0311",
+        "10.1111/j.1749-6632.1993.tb22864.x",
+        "10.1126/science.1177627",
+        "10.4049/jimmunol.166.7.4429"
+      ]
+    },
+    {
+      "statement": "There is a direct causal link between medullary thymic epithelial cell functional integrity and central tolerance maintenance. Conditional deletion of Traf6 in murine thymic epithelial cells causes spontaneous autoimmune hepatitis, while mutations in the AIRE gene within human medullary thymic epithelial cells directly cause the severe multiorgan autoimmune disease APECED.",
+      "supporting_dois": [
+        "10.1002/eji.200636962",
+        "10.1002/humu.1178",
+        "10.1002/humu.20003",
+        "10.1073/pnas.0700259104",
+        "10.1073/pnas.0808070105",
+        "10.1074/jbc.m707211200",
+        "10.1084/jem.20040581",
+        "10.1084/jem.20070795",
+        "10.1126/science.1075958",
+        "10.1126/science.1105677",
+        "10.1159/000297714",
+        "10.1172/jci65414",
+        "10.1210/jc.2008-0935",
+        "10.1371/journal.pone.0053981",
+        "10.1515/jpem.2004.17.6.917",
+        "10.1515/jpem.2008.21.10.1003",
+        "10.1530/eje.0.1460519",
+        "10.3389/fimmu.2012.00019",
+        "10.4049/jimmunol.165.4.1976"
+      ]
+    },
+    {
+      "statement": "Targeted metabolic perturbations can be induced specifically within medullary thymic epithelial cells using genetic tools like inducible Cre-LoxP systems and conditional knockouts, as well as pharmacological agents such as rapamycin. Advanced technologies including mass spectrometry, super-resolution microscopy, and single-cell omics provide the experimental capacity to mechanistically investigate how these perturbations affect cellular function.",
+      "supporting_dois": [
+        "10.1002/1878-0261.12642",
+        "10.1002/jcp.30192",
+        "10.1016/j.celrep.2014.07.029",
+        "10.1016/j.celrep.2017.10.121",
+        "10.1016/j.celrep.2019.10.079",
+        "10.1021/jacs.0c04566",
+        "10.1021/jacs.2c02404",
+        "10.1038/s41467-021-21346-6",
+        "10.1038/s41467-023-39722-9",
+        "10.1038/s41586-024-07944-6",
+        "10.1038/s41598-017-19100-4",
+        "10.1073/pnas.1308311110",
+        "10.1074/jbc.m109.072124",
+        "10.1080/15548627.2017.1376161",
+        "10.1084/jem.20212554",
+        "10.1093/intimm/dxw029",
+        "10.1126/science.1127344",
+        "10.1126/science.1153529",
+        "10.1146/annurev-immunol-051116-052320",
+        "10.1158/1538-7445.csb12-ia13",
+        "10.1186/1471-213x-7-69",
+        "10.1210/endocr/bqaf043.024",
+        "10.1364/biomed.2012.btu1a.2",
+        "10.1371/journal.pbio.1002370",
+        "10.1371/journal.pone.0008354",
+        "10.1371/journal.pone.0046590",
+        "10.1371/journal.pone.0053416",
+        "10.15252/embj.2019101828",
+        "10.21037/med-23-ab009",
+        "10.21769/bioprotoc.5091",
+        "10.3389/fimmu.2021.716661",
+        "10.3389/fimmu.2022.805451",
+        "10.3389/fimmu.2022.846281",
+        "10.3791/50195",
+        "10.4049/jimmunol.1502698",
+        "10.4049/jimmunol.2100463",
+        "10.5584/jiomics.v5i1.172"
+      ]
+    },
+    {
+      "statement": "Conserved metabolic checkpoints that integrate cellular energy status with immune function in thymic cells represent promising therapeutic targets for autoimmune diseases. The translational viability is supported by targeted drug delivery strategies like liposomal encapsulation that mitigate off-target effects and improve safety profiles.",
+      "supporting_dois": [
+        "10.1002/jbm.a.36151",
+        "10.1080/15548627.2017.1376161",
+        "10.1084/jem.20082449",
+        "10.1111/j.1749-6632.1978.tb22033.x",
+        "10.1126/science.1075958",
+        "10.1172/jci179612",
+        "10.1186/2162-3619-1-10",
+        "10.1684/ecn.2021.0474",
+        "10.3389/fimmu.2021.716661",
+        "10.4049/jimmunol.0901576",
+        "10.4049/jimmunol.1101604",
+        "10.4049/jimmunol.162.9.5317",
+        "10.4049/jimmunol.210.supp.165.14",
+        "10.4049/jimmunol.210.supp.170.03",
+        "10.4049/jimmunol.2400079"
+      ]
+    }
+  ]
+}

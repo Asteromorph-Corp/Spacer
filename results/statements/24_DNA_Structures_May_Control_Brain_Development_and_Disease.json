@@ -1,0 +1,147 @@
+{
+  "concept": "Intronic G-quadruplex topology may determine splice site selection in developing neurons by creating physical barriers that alter spliceosome assembly dynamics through RNA polymerase II pausing mechanisms. Systematic mapping of G-quadruplex structural features could reveal how specific topological constraints drive pathological exon inclusion patterns in neurodevelopmental diseases.",
+  "rationale": [
+    {
+      "statement": "G-quadruplexes exhibit biophysical properties that enable them to function as persistent yet dynamic regulatory structures in cellular environments. These structures demonstrate high thermal stability with melting temperatures exceeding 50°C, rapid folding kinetics occurring on millisecond to minute timescales, and structural polymorphism that responds to environmental factors. RNA G-quadruplexes show greater stability than their DNA counterparts under cellular conditions, supporting their regulatory persistence during neuronal development.",
+      "supporting_dois": [
+        "10.1021/ac102168m",
+        "10.1021/acs.biochem.4c00601",
+        "10.1021/acs.jpcb.0c02548",
+        "10.1021/acsomega.7b01649",
+        "10.1021/bi1002822",
+        "10.1021/ja064536h",
+        "10.1021/ja309851t",
+        "10.1021/ja4019176",
+        "10.1021/jacs.6b04506",
+        "10.1038/s41467-022-30071-7",
+        "10.1073/pnas.2433350100",
+        "10.1093/carcin/bgu206",
+        "10.1093/nar/gkaa1126",
+        "10.1093/nar/gks1341",
+        "10.1101/gad.305862.117",
+        "10.1523/jneurosci.0093-23.2024",
+        "10.7554/elife.17820"
+      ]
+    },
+    {
+      "statement": "The regulatory impact of G-quadruplexes appears heightened in developing neurons due to stage-specific expression of resolving helicases like DHX36. Multiple lines of evidence demonstrate that G-quadruplexes serve as transcriptional control devices in neural systems, with stabilizers showing ability to downregulate specific neuronal genes. This creates temporal windows of vulnerability to splicing dysregulation during critical neurodevelopmental periods.",
+      "supporting_dois": [
+        "10.1002/ana.20379",
+        "10.1021/acschembio.3c00775",
+        "10.1021/acschemneuro.0c00194",
+        "10.1038/s41467-019-10432-5",
+        "10.1038/s41467-021-22129-9",
+        "10.1038/s41467-021-27719-1",
+        "10.1080/21541264.2016.1243505",
+        "10.1093/nar/gkt264",
+        "10.1101/gad.211243.112",
+        "10.1111/gtc.13061",
+        "10.1523/jneurosci.0093-23.2024",
+        "10.18632/aging.101282",
+        "10.3389/fnins.2023.1116087",
+        "10.7554/elife.52283"
+      ]
+    },
+    {
+      "statement": "Intronic G-quadruplex structures function as transient physical barriers that may induce RNA Polymerase II pausing during transcription. These stable secondary configurations from guanine-rich sequences create physical impediments that the polymerase must resolve, providing temporal windows that could facilitate altered spliceosome assembly and RNA-binding protein recruitment at nearby splice sites.",
+      "supporting_dois": [
+        "10.1016/j.molcel.2010.11.005",
+        "10.1016/j.molcel.2018.09.004",
+        "10.1016/j.molcel.2021.02.016",
+        "10.1038/s41467-019-08381-0",
+        "10.1073/pnas.1205063109",
+        "10.1093/nar/gkaa1126",
+        "10.1093/nar/gkj421",
+        "10.1101/gad.305862.117",
+        "10.1186/s12915-025-02229-4",
+        "10.1371/journal.pcbi.1007383",
+        "10.7554/elife.17820"
+      ]
+    },
+    {
+      "statement": "The three-dimensional topology of G-quadruplexes appears to serve as a recruitment platform for RNA-binding proteins, including hnRNP F and H, which directly modulate splice site recognition and selection. Co-immunoprecipitation studies identify G-quadruplex-interacting proteins that may amplify or mitigate splicing disruptions, suggesting these structures influence RNA-binding protein interactions that determine splicing outcomes.",
+      "supporting_dois": [
+        "10.1016/j.dib.2018.02.081",
+        "10.1021/acs.jproteome.1c00603",
+        "10.1038/s41467-022-30071-7",
+        "10.1074/jbc.m700774200",
+        "10.1093/nar/22.6.1059",
+        "10.1093/nar/gku290",
+        "10.1101/gad.305862.117",
+        "10.1371/journal.pbio.0040021",
+        "10.7554/elife.17820"
+      ]
+    },
+    {
+      "statement": "The synergistic disruption of co-transcriptional splicing may arise from G-quadruplex-induced polymerase pausing creating temporal windows for altered recruitment of RNA-binding proteins. This mechanism's pathological relevance is supported by evidence that de novo mutations in neurodevelopmental disorder genes can create pathogenic G-quadruplex structures, with examples including mutations in GRIN1 promoter and SHANK3 splice sites linked to autism spectrum disorder.",
+      "supporting_dois": [
+        "10.1002/ajmg.b.30822",
+        "10.1021/acschembio.0c00260",
+        "10.1038/s41467-022-30071-7",
+        "10.1038/s41525-021-00254-0",
+        "10.1039/c7mb00360a",
+        "10.1093/carcin/bgq253",
+        "10.1093/nar/26.24.5568",
+        "10.1093/nar/gkaa1126",
+        "10.1101/gad.305862.117",
+        "10.1111/j.1471-4159.2012.07680.x",
+        "10.1186/2040-2392-5-30",
+        "10.1371/journal.pone.0116358",
+        "10.7554/elife.17820"
+      ]
+    },
+    {
+      "statement": "A comprehensive suite of experimental and computational methods enables high-fidelity mapping and validation of G-quadruplex structures and their functional impact on splicing. These include computational tools like G4Hunter for sequence prediction, biochemical footprinting for structure validation, minigene assays for direct functional testing, and iPSC-derived neuronal models for developmental observation. Single-cell profiling and genome-wide mapping techniques can identify G-quadruplex landscapes correlating with regulatory hotspots in neurodevelopmental genes.",
+      "supporting_dois": [
+        "10.1002/anie.201500891",
+        "10.1021/acschemneuro.0c00194",
+        "10.1038/s41467-018-07224-8",
+        "10.1038/s41467-022-30071-7",
+        "10.1038/s41598-021-02943-3",
+        "10.1038/srep01016",
+        "10.1073/pnas.0910012107",
+        "10.1073/pnas.1202944109",
+        "10.1080/21541264.2016.1243505",
+        "10.1093/bioinformatics/btz087",
+        "10.1093/nar/gkae473",
+        "10.1093/nar/gkae797",
+        "10.1093/nar/gkp740",
+        "10.1093/nar/gkw006",
+        "10.1093/nar/gkw011",
+        "10.1093/nar/gkw1280",
+        "10.1101/gad.305862.117",
+        "10.1126/sciadv.abd9440",
+        "10.1186/1756-0500-5-138",
+        "10.21769/bioprotoc.3188",
+        "10.3389/fcell.2021.727747",
+        "10.3389/fcell.2022.1023340",
+        "10.4172/1747-0862.1000122",
+        "10.7554/elife.17820"
+      ]
+    },
+    {
+      "statement": "Systematic mapping could causally link specific, evolutionarily conserved G-quadruplex structural features to pathological splicing patterns. Analysis across eleven species reveals strong evolutionary conservation of G-quadruplex motifs near splice junctions in mammals and birds, indicating a conserved regulatory role. The therapeutic tractability of targeting disease-associated G-quadruplexes is demonstrated by small molecules that selectively bind C9orf72 G-quadruplexes and ameliorate pathological signatures in ALS/FTD models.",
+      "supporting_dois": [
+        "10.1002/ajmg.b.30822",
+        "10.1002/cbic.202400974",
+        "10.1021/acs.jmedchem.2c00654",
+        "10.1021/acschemneuro.1c00470",
+        "10.1038/s41467-021-21112-8",
+        "10.1038/s41467-022-30071-7",
+        "10.1038/s41467-023-43872-1",
+        "10.1038/s41525-021-00254-0",
+        "10.1038/srep01016",
+        "10.1038/srep16673",
+        "10.1039/c7mb00360a",
+        "10.1073/pnas.2210532119",
+        "10.1093/hmg/ddac298",
+        "10.1126/scitranslmed.abd5991",
+        "10.1186/2040-2392-5-30",
+        "10.1371/journal.pone.0116358",
+        "10.15252/emmm.201707850",
+        "10.3390/brainsci11111543",
+        "10.3390/molecules28124671"
+      ]
+    }
+  ]
+}

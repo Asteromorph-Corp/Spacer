@@ -1,0 +1,1 @@
+We hypothesize that neighbor-counting via contact-dependent signaling plus selective adhesion is sufficient to program developmental logic in yeast. Decoding this rule, we modularly tune juxtacrine strength, adhesion, and density to reveal how local interactions scale to global fate patterns, establishing a blueprint for rationally designed multicellular circuits.

@@ -1,0 +1,1 @@
+By multiplexing far-red HaloDA1.0 with existing green/red sensors, we hypothesize that dopamine release, calcium flux, and cAMP dynamics exhibit stereotyped temporal hierarchies across brain regions, and we will exploit this spectral triangulation in behaving mice to decode how multiplexed neuromodulator sequences choreograph synaptic plasticity during reward learning.

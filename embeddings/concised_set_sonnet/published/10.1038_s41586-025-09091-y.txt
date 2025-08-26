@@ -1,0 +1,1 @@
+Plasmodium falciparum strategically manipulates NK cell responses by expressing RIFIN variants that differentially bind inhibitory KIR2DL1 versus activating KIR2DS1 receptors, enabling parasites to fine-tune immune evasion through calculated binding affinity ratios that balance survival with controlled activation.

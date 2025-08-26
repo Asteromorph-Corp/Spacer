@@ -1,0 +1,121 @@
+{
+  "concept": "Brown adipose tissue thermogenesis may establish spatially-organized feedback loops where localized heat generation directly modulates adjacent sympathetic nerve terminal activity through temperature-dependent neurotransmitter release kinetics. This neuro-adipose interface could represent a fundamental mechanism where metabolic heat dissipation dynamically influences the neural circuits controlling energy expenditure.",
+  "rationale": [
+    {
+      "statement": "Brown adipose tissue generates measurable localized temperature gradients through mitochondrial uncoupling protein 1-mediated thermogenesis. Non-invasive thermometry demonstrates that brown adipose tissue temperatures reach approximately 1.1°C above core body temperature during activation, creating spatially-defined thermal environments that diminish predictably with distance from thermogenic cells.",
+      "supporting_dois": [
+        "10.1002/j.2040-4603.2014.tb00592.x",
+        "10.1002/jnr.490250214",
+        "10.1016/0014-5793(83)80740-6",
+        "10.1016/j.molmet.2014.04.007",
+        "10.1038/s42003-023-05140-2",
+        "10.1038/s43856-023-00374-x",
+        "10.1038/sigtrans.2017.60",
+        "10.1073/pnas.82.2.445",
+        "10.1085/jgp.200308814",
+        "10.1126/science.146.3652.1686",
+        "10.1152/ajpendo.00033.2014",
+        "10.1152/ajpregu.00427.2006",
+        "10.1152/ajpregu.1978.235.3.r121",
+        "10.1172/jci129167",
+        "10.2220/biomedres.34.173",
+        "10.2298/abs171215018j",
+        "10.4161/adip.28815"
+      ]
+    },
+    {
+      "statement": "Sympathetic nerve terminals form close anatomical junctions with brown adipocytes and possess temperature-sensitive molecular machinery. These terminals contain temperature-responsive ion channels and calcium signaling pathways that can alter neurotransmitter release kinetics in response to local thermal changes, providing the mechanistic basis for thermal modulation of neural activity.",
+      "supporting_dois": [
+        "10.1002/cne.25281",
+        "10.1002/cphy.c220030",
+        "10.1002/j.2040-4603.2023.tb00277.x",
+        "10.1111/j.1469-7793.1997.521bj.x",
+        "10.1113/jphysiol.1967.sp008364",
+        "10.1113/jphysiol.1971.sp009542",
+        "10.1113/jphysiol.1972.sp010054",
+        "10.1113/jphysiol.1974.sp010628",
+        "10.1113/jphysiol.1978.sp012343",
+        "10.1113/jphysiol.1993.sp019709",
+        "10.1113/jphysiol.1996.sp021797",
+        "10.1152/jn.91209.2008",
+        "10.1186/1471-2202-9-64",
+        "10.1523/jneurosci.20-19-07290.2000",
+        "10.1523/jneurosci.3889-05.2006",
+        "10.3389/fphar.2023.1256924"
+      ]
+    },
+    {
+      "statement": "Activated brown adipose tissue releases chemical mediators including purines, lipid metabolites, and catecholamines that provide non-thermal feedback pathways. These diffusible signals, particularly adenosine and prostaglandins, can directly modulate sympathetic nerve function and establish autocrine-paracrine regulatory loops independent of temperature effects.",
+      "supporting_dois": [
+        "10.1002/j.2040-4603.2023.tb00277.x",
+        "10.1016/j.molmet.2018.06.014",
+        "10.1038/s41467-021-25766-2",
+        "10.1038/sigtrans.2017.60",
+        "10.1046/j.1460-9568.2003.02919.x",
+        "10.1085/jgp.108.5.393",
+        "10.1111/j.1748-1716.1976.tb10211.x",
+        "10.1111/j.1748-1716.1988.tb08355.x",
+        "10.1113/jphysiol.1981.sp013670",
+        "10.1126/science.1186034",
+        "10.1139/y82-109",
+        "10.1152/ajpcell.1984.246.3.c301",
+        "10.1152/ajpcell.1997.273.2.c679",
+        "10.1152/jappl.1990.68.2.580",
+        "10.1161/01.hyp.27.4.933",
+        "10.1172/jci110541",
+        "10.1210/clinem/dgae016",
+        "10.1210/jc.87.7.3373",
+        "10.1210/jcem-52-2-359",
+        "10.1210/jcem.84.8.5882",
+        "10.1210/jcem.87.7.8695",
+        "10.1371/journal.pone.0051898",
+        "10.1523/jneurosci.3306-14.2015",
+        "10.2170/jjphysiol.29.683",
+        "10.2337/db12-0015",
+        "10.3389/fnins.2017.00640"
+      ]
+    },
+    {
+      "statement": "The rapid kinetics of sympathetic activation and brown adipose tissue thermogenesis support real-time feedback mechanisms. Sympathetic stimulation induces 4- to 12-fold increases in norepinephrine turnover within minutes, while biophysical modeling confirms that resulting temperature changes at nerve terminals are sufficient to trigger thermal-sensitive processes.",
+      "supporting_dois": [
+        "10.1002/j.2040-4603.2014.tb00592.x",
+        "10.1002/jnr.490250214",
+        "10.1038/sigtrans.2017.60",
+        "10.1085/jgp.200308814",
+        "10.1152/ajpendo.00033.2014",
+        "10.1152/ajpendo.1982.242.4.e253",
+        "10.1152/ajpregu.00427.2006",
+        "10.1152/ajpregu.1978.235.3.r121",
+        "10.1152/ajpregu.1986.251.1.r13",
+        "10.1152/ajpregu.1990.259.1.r90",
+        "10.1172/jci110541",
+        "10.2220/biomedres.34.173"
+      ]
+    },
+    {
+      "statement": "This neuro-adipose feedback system operates within broader physiological contexts that modulate its function. Systemic factors including genetic polymorphisms, sex differences, and cold exposure history influence the dynamics of these feedback loops, while local adaptations such as receptor desensitization and blood flow changes provide additional regulatory layers.",
+      "supporting_dois": [
+        "10.1002/cne.10643",
+        "10.1016/s0022-2275(20)32570-0",
+        "10.1038/oby.2006.130",
+        "10.1038/s41366-024-01522-6",
+        "10.1038/s41467-021-21107-5",
+        "10.1055/s-2007-977732",
+        "10.1074/jbc.m500328200",
+        "10.1096/fasebj.4.11.2165947",
+        "10.1111/j.1432-1033.1982.tb06990.x",
+        "10.1152/ajpcell.1994.267.4.c969",
+        "10.1172/jci110541",
+        "10.1186/s13072-024-00536-8",
+        "10.1210/en.139.6.2676",
+        "10.1210/endo.139.6.6050",
+        "10.1371/journal.pone.0068933",
+        "10.1523/jneurosci.20-24-09264.2000",
+        "10.1523/jneurosci.3306-14.2015",
+        "10.2170/jjphysiol.34.103",
+        "10.2337/db24-2045-lb",
+        "10.3181/00379727-204-43643"
+      ]
+    }
+  ]
+}

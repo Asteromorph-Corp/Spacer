@@ -1,0 +1,1 @@
+S-nitrosylation of specific Cav cysteines creates a nitric-oxide-gated rheostat that allosterically tunes voltage-to-calcium gain without altering canonical gating, exploiting nanodomain NO gradients and reversible thiol chemistry for sub-millisecond, spatially confined control of channel input-output coupling.

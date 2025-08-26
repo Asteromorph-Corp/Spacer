@@ -1,0 +1,134 @@
+{
+  "concept": "Age-related changes in BiP/GRP78 chaperone dynamics at mitochondria-associated membrane contact sites may disrupt the temporal coordination between PERK-mediated ER stress sensing and mitochondrial ATP production. This dysregulation could compromise neuronal proteostasis by altering the precise timing of unfolded protein response activation.",
+  "rationale": [
+    {
+      "statement": "Mitochondria-associated membrane contact sites serve as critical structural platforms that functionally couple ER stress signaling with mitochondrial bioenergetics through calcium transfer mechanisms. These contact sites enable localized sensing and response to ER stress while integrating mitochondrial functions.",
+      "supporting_dois": [
+        "10.1002/jcp.21340",
+        "10.1016/j.celrep.2021.110213",
+        "10.1038/s41418-017-0033-z",
+        "10.1038/s41419-024-06781-9",
+        "10.1038/s41467-019-11646-3",
+        "10.1038/s41540-021-00185-7",
+        "10.1042/bj20051916",
+        "10.1051/mmnp/20127608",
+        "10.1073/pnas.1916584117",
+        "10.1080/19768354.2012.685181",
+        "10.1080/23723556.2019.1659078",
+        "10.1091/mbc.e23-05-0205",
+        "10.1101/cshperspect.a004424",
+        "10.1158/1538-7445.am2012-3261",
+        "10.1177/2515256419861227",
+        "10.1177/25152564211052392",
+        "10.1186/1478-811x-9-19",
+        "10.1242/jcs.058636",
+        "10.1371/journal.pcbi.1006661",
+        "10.3389/fcell.2022.918691",
+        "10.3390/cells14070482",
+        "10.3390/cells2030574",
+        "10.3390/ijms222011049",
+        "10.3791/54899",
+        "10.3791/64750",
+        "10.3791/66862"
+      ]
+    },
+    {
+      "statement": "BiP/GRP78 functions as a master regulator of PERK-mediated unfolded protein response through its binding and dissociation kinetics. The timing of this dissociation determines whether cellular responses are adaptive or lead to chronic stress and protein aggregation.",
+      "supporting_dois": [
+        "10.1016/j.neuron.2019.12.014",
+        "10.1016/j.redox.2024.103025",
+        "10.1038/s41419-019-1327-5",
+        "10.1038/s41419-024-06663-0",
+        "10.1073/pnas.1406050111",
+        "10.1073/pnas.220247197",
+        "10.1074/jbc.m200903200",
+        "10.1083/jcb.201612165",
+        "10.1089/ars.2009.2485",
+        "10.1111/acel.13592",
+        "10.1126/science.1209126",
+        "10.1126/scitranslmed.3006767",
+        "10.1186/1752-0509-7-16",
+        "10.1371/journal.pbio.0040374",
+        "10.1371/journal.pone.0006868",
+        "10.1371/journal.pone.0013084",
+        "10.2174/1568013033483285",
+        "10.3389/fnagi.2012.00005",
+        "10.3390/ijms21030845",
+        "10.3390/ijms241411542",
+        "10.7554/elife.03522"
+      ]
+    },
+    {
+      "statement": "Post-translational modifications, particularly phosphorylation, directly modulate BiP/GRP78 chaperone activity and client-binding dynamics. Age-related shifts in cellular signaling and redox environment alter these modifications, impacting the ATPase cycle and interaction affinities of chaperone proteins.",
+      "supporting_dois": [
+        "10.1074/jbc.272.7.4327",
+        "10.1074/jbc.274.1.486",
+        "10.1074/jbc.m503964200",
+        "10.1093/gerona/61.5.435",
+        "10.1096/fasebj.27.1_supplement.993.4",
+        "10.1111/cmi.12416",
+        "10.1128/mcb.8.10.4250",
+        "10.1128/mcb.8.10.4250-4256.1988",
+        "10.1247/csf.20.33"
+      ]
+    },
+    {
+      "statement": "Neuronal proteostasis and BiP/GRP78 chaperone function fundamentally depend on synchronized mitochondrial ATP supply. The adaptive phase of the unfolded protein response requires coordinated increases in mitochondrial ATP production to support energy-intensive protein folding and quality control processes.",
+      "supporting_dois": [
+        "10.1038/s42003-021-02873-w",
+        "10.1073/pnas.1806655115",
+        "10.1074/jbc.272.7.4327",
+        "10.1074/jbc.273.41.26827",
+        "10.1074/jbc.m110.134106",
+        "10.1074/jbc.m503964200",
+        "10.1091/mbc.e23-05-0205",
+        "10.1126/sciadv.adi1411",
+        "10.17912/micropub.biology.000445",
+        "10.3389/fnagi.2012.00005",
+        "10.3389/fnins.2017.00220",
+        "10.5075/epfl-thesis-7352"
+      ]
+    },
+    {
+      "statement": "Aging systematically degrades neuronal proteostatic capacity through structural changes in mitochondria-associated membranes, impaired unfolded protein response efficiency, and modified BiP/GRP78 expression and functionality. Neurons are particularly vulnerable due to their high metabolic demands and limited regenerative capacity.",
+      "supporting_dois": [
+        "10.1007/s10522-023-10027-0",
+        "10.1021/acs.jafc.3c03380",
+        "10.1038/s41419-022-04746-4",
+        "10.1038/s41467-019-12070-3",
+        "10.1038/srep40919",
+        "10.1093/gerona/61.5.435",
+        "10.1093/geroni/igad104.1134",
+        "10.1093/geroni/igae098.2829",
+        "10.1096/fasebj.2019.33.1_supplement.794.12",
+        "10.1111/acel.13065",
+        "10.1111/acel.13071",
+        "10.1126/sciadv.abn4437",
+        "10.1152/physiol.2024.39.s1.1791",
+        "10.1177/2515256419861227",
+        "10.1186/s40478-019-0688-4",
+        "10.1242/jcs.253443",
+        "10.12703/p6-07",
+        "10.1515/ersc-2017-0002",
+        "10.3389/fmolb.2024.1356500",
+        "10.3389/fnagi.2012.00005",
+        "10.3389/fnagi.2020.573764",
+        "10.3389/fnmol.2019.00132",
+        "10.3390/ijms241411542"
+      ]
+    },
+    {
+      "statement": "Temporal misalignment between ER stress detection and mitochondrial energy supply impairs ATP-dependent protein folding processes. This disrupted coordination between unfolded protein response activation and mitochondrial ATP production compromises proteostatic capacity in aging neurons.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2017.10.038",
+        "10.1016/j.celrep.2018.02.055",
+        "10.1111/acel.13065",
+        "10.1126/sciadv.adi1411",
+        "10.1242/jcs.080762",
+        "10.3389/fcell.2022.918691",
+        "10.3389/fmolb.2024.1356500",
+        "10.3390/metabo11070422"
+      ]
+    }
+  ]
+}

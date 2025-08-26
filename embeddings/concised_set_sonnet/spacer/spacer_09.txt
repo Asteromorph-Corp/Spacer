@@ -1,0 +1,1 @@
+S-nitrosylation of voltage-gated calcium channels creates a nitric oxide-sensitive rheostat that allosterically tunes calcium flux independently of conventional gating, exploiting spatially-restricted NO gradients to modulate voltage-to-calcium coupling efficiency and establish dynamic gain control in excitation-calcium signaling through reversible cysteine modifications.

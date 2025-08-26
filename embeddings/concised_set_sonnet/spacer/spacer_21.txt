@@ -1,0 +1,1 @@
+Allosteric ligand binding to disordered protein motifs drives phase separation through solvent reorganization rather than direct contacts, where conformational ensemble shifts redistribute charged residues, displacing water molecules and altering local electric fields to modulate solvation thermodynamics and critical concentrations.

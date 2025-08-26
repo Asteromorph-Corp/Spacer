@@ -1,0 +1,112 @@
+{
+  "concept": "Calcium-dependent phosphorylation of HDAC4's nuclear localization sequence transforms this epigenetic repressor into an activity-dependent molecular switch. Modified HDAC4 undergoes cytoplasmic sequestration to relieve repression at synaptic gene loci, enabling neuronal activity-responsive transcriptional programs that support synaptic plasticity.",
+  "rationale": [
+    {
+      "statement": "Post-translational modifications of histone deacetylase complexes at chromatin-targeting domains enable the conversion of repressive epigenetic regulators into sensors responsive to synaptic signaling pathways. This establishes the foundational principle that epigenetic repressors can be transformed into activity-dependent regulators through targeted modifications.",
+      "supporting_dois": [
+        "10.1002/ar.21389",
+        "10.1002/cne.22241",
+        "10.1016/j.celrep.2022.110352",
+        "10.1021/pr9003739",
+        "10.1038/s41421-023-00539-x",
+        "10.1046/j.1471-4159.2003.01648.x",
+        "10.1111/nan.12861",
+        "10.1161/strokeaha.115.009046",
+        "10.1523/eneuro.0020-14.2015",
+        "10.1523/jneurosci.1826-05.2005",
+        "10.1523/jneurosci.2089-12.2012",
+        "10.1523/jneurosci.3162-12.2013",
+        "10.7554/elife.57663"
+      ]
+    },
+    {
+      "statement": "Neuronal activity drives nuclear export of HDAC4 via CaMKII-mediated phosphorylation at evolutionarily conserved sites within its nuclear localization sequence, particularly S246. This phosphorylation directly disrupts nuclear import machinery, while basal NMDAR activity promotes nuclear accumulation, establishing bidirectional activity-dependent localization control.",
+      "supporting_dois": [
+        "10.1002/ar.21389",
+        "10.1038/s41467-019-11409-0",
+        "10.1046/j.1471-4159.2003.01648.x",
+        "10.1074/jbc.m105086200",
+        "10.1074/mcp.m110.004317",
+        "10.1128/mcb.00231-06",
+        "10.1128/mcb.01611-07",
+        "10.1128/mcb.20.18.6904-6912.2000",
+        "10.1128/mcb.21.18.6312-6321.2001",
+        "10.1172/jci27438",
+        "10.1523/jneurosci.0569-14.2014",
+        "10.1523/jneurosci.1826-05.2005"
+      ]
+    },
+    {
+      "statement": "A protein whose subcellular localization and function are bidirectionally controlled by opposing enzymatic activities in response to external signals acts as a molecular switch. HDAC4 meets this definition through its reversible phosphorylation-dependent shuttling between nuclear repression and cytoplasmic sequestration states.",
+      "supporting_dois": [
+        "10.1007/s00395-021-00850-2",
+        "10.1021/jacs.5b11532",
+        "10.1046/j.1471-4159.2003.01648.x",
+        "10.1073/pnas.140199597",
+        "10.1073/pnas.250494697",
+        "10.1074/jbc.m113.546515",
+        "10.1074/jbc.m706268200",
+        "10.1080/10610270412331329023",
+        "10.1091/mbc.e07-06-0623",
+        "10.1096/fj.08-115931",
+        "10.1111/adb.12522",
+        "10.1111/nan.12861",
+        "10.1126/science.2406906",
+        "10.1128/mcb.00853-07",
+        "10.1172/jci27438",
+        "10.1523/jneurosci.2089-12.2012"
+      ]
+    },
+    {
+      "statement": "Cytoplasmic sequestration of phosphorylated HDAC4 relieves transcriptional repression at synaptic gene loci, including key effectors like MEF2 and synaptic plasticity genes. This derepression activates gene expression programs essential for neuronal plasticity and synaptic maturation.",
+      "supporting_dois": [
+        "10.1038/s41467-019-11409-0",
+        "10.1042/bj20120152",
+        "10.1046/j.1471-4159.2003.01648.x",
+        "10.1073/pnas.0601565103",
+        "10.1074/jbc.m105086200",
+        "10.1074/jbc.m706268200",
+        "10.1083/jcb.201105063",
+        "10.1091/mbc.e08-07-0759",
+        "10.1096/fj.08-115931",
+        "10.1128/mcb.01611-07",
+        "10.1128/mcb.25.19.8456-8464.2005",
+        "10.1172/jci27438",
+        "10.14800/mr.1368",
+        "10.1523/jneurosci.0569-14.2014",
+        "10.1523/jneurosci.1826-05.2005",
+        "10.1523/jneurosci.2089-12.2012"
+      ]
+    },
+    {
+      "statement": "Multiple regulatory mechanisms ensure robust and finely-tuned control of the HDAC4 switch. PKA provides counter-regulation to CaMKII by promoting nuclear retention, while caspase- and ubiquitin-mediated degradation pathways control functional duration. Oligomerization with HDAC5 amplifies calcium signal transmission across gene networks.",
+      "supporting_dois": [
+        "10.1007/s00395-021-00850-2",
+        "10.1016/s0021-9258(19)61493-6",
+        "10.1046/j.1471-4159.2003.01648.x",
+        "10.1074/jbc.m402475200",
+        "10.1074/jbc.m706268200",
+        "10.1083/jcb.201105063",
+        "10.1091/mbc.e03-08-0624",
+        "10.1091/mbc.e10-07-0616",
+        "10.1113/jphysiol.2013.256263",
+        "10.1128/mcb.01611-07",
+        "10.1172/jci27438",
+        "10.1523/jneurosci.2089-12.2012"
+      ]
+    },
+    {
+      "statement": "Targeting HDAC4 phosphorylation pathways represents a feasible therapeutic strategy for neurodevelopmental disorders. Conditional deletion studies demonstrate neuronal resilience to HDAC4 modulation, with minimal impacts on brain architecture or basic functions, while its specific role in synaptic maturation offers advantages over broad epigenetic therapies.",
+      "supporting_dois": [
+        "10.1002/jnr.23170",
+        "10.1046/j.1471-4159.2003.01648.x",
+        "10.1093/hmg/ddw231",
+        "10.1111/nan.12861",
+        "10.1126/science.1166226",
+        "10.1523/jneurosci.1826-05.2005",
+        "10.1523/jneurosci.2089-12.2012",
+        "10.3389/fnmol.2021.616642"
+      ]
+    }
+  ]
+}

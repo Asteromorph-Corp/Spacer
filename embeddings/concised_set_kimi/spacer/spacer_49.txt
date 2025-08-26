@@ -1,0 +1,1 @@
+Exploiting cancer cells' intrinsic nonlinear excitability, we hypothesize that precisely tuned stochastic noise can entrain pathologically desynchronized calcium oscillations, reinstating coherent signaling that re-engages cell-cycle checkpoints and selectively suppresses malignant proliferation while sparing normal hepatocytes.
