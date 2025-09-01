@@ -1,0 +1,1 @@
+Hippocampal vCA1 neurons employ dual rate and theta-based temporal coding to parse multidimensional social memories, with temporal coding governing sex discrimination while rate coding drives identity recognition, revealing how orthogonal neural mechanisms enable simultaneous encoding of distinct social attributes within unified memory representations.

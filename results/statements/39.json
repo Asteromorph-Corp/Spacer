@@ -1,0 +1,118 @@
+{
+  "concept": "Injury-induced cholesterol redistribution in axonal lipid rafts may alter TrkB neurotrophin receptor clustering, potentially modulating calcium oscillation patterns that could govern growth cone steering decisions during neural regeneration through hormone-sensitive membrane domain reorganization.",
+  "rationale": [
+    {
+      "statement": "Lipid rafts function as cholesterol-dependent membrane microdomains that serve as critical signaling hubs by concentrating neurotrophin receptors like TrkB. These specialized domains enhance receptor clustering and downstream signal transduction efficiency, forming the foundational platform for neuronal communication.",
+      "supporting_dois": [
+        "10.1007/s10237-023-01787-2",
+        "10.1016/j.febslet.2007.03.080",
+        "10.1046/j.1471-4159.2001.00132.x",
+        "10.1073/pnas.0631608100",
+        "10.1073/pnas.2534386100",
+        "10.1083/jcb.148.5.997",
+        "10.1083/jcb.200209091",
+        "10.1083/jcb.200305134",
+        "10.1083/jcb.200312170",
+        "10.1083/jcb.200404106",
+        "10.1103/physreve.77.021907",
+        "10.1109/tcbb.2013.40",
+        "10.1111/j.1440-1711.2005.01355.x",
+        "10.1128/mcb.01109-06",
+        "10.1186/1478-811x-7-21",
+        "10.1523/jneurosci.2807-05.2006",
+        "10.1523/jneurosci.4587-06.2007",
+        "10.3389/fnsyn.2022.921772",
+        "10.4049/jimmunol.165.3.1220",
+        "10.4049/jimmunol.171.6.3216",
+        "10.4052/tigg.13.291"
+      ]
+    },
+    {
+      "statement": "Axonal injury triggers compensatory mechanisms involving lipid metabolism and cholesterol redistribution, leading to dynamic reorganization of membrane domain composition. This injury-induced membrane stress fundamentally alters the structural integrity and signaling capacity of lipid raft microdomains.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2014.06.014",
+        "10.1016/j.dib.2019.103950",
+        "10.1016/j.jtbi.2013.08.022",
+        "10.1016/j.nbd.2021.105259",
+        "10.1038/s41467-020-15915-4",
+        "10.1042/bj20061178",
+        "10.1074/jbc.275.26.19883",
+        "10.1093/intimm/dxs008",
+        "10.1111/j.1471-4159.1983.tb12649.x",
+        "10.1111/j.1471-4159.1993.tb03268.x",
+        "10.1126/scisignal.2002011",
+        "10.1128/mcb.00121-12",
+        "10.1161/jaha.119.012885",
+        "10.1371/journal.pbio.0050066",
+        "10.1523/jneurosci.11-10-03257.1991",
+        "10.1523/jneurosci.17-10-03568.1997",
+        "10.1523/jneurosci.4313-04.2005",
+        "10.1523/jneurosci.4587-06.2007",
+        "10.1523/jneurosci.5464-09.2010",
+        "10.3389/fncel.2019.00040",
+        "10.4103/1673-5374.324832"
+      ]
+    },
+    {
+      "statement": "TrkB receptor activation by neurotrophins induces specific calcium oscillations in regenerating axons that encode directional information for growth cone navigation. These spatiotemporal calcium patterns represent critical signaling mechanisms that guide axonal pathfinding during regeneration.",
+      "supporting_dois": [
+        "10.1002/ana.24099",
+        "10.1002/jnr.24009",
+        "10.1002/neu.10013",
+        "10.1002/neu.10027",
+        "10.1002/neu.10084",
+        "10.1007/s00018-024-05117-2",
+        "10.1016/j.neuroscience.2018.02.003",
+        "10.1055/s-0037-1599836",
+        "10.1073/pnas.0810624106",
+        "10.1073/pnas.1303646110",
+        "10.1074/jbc.m109139200",
+        "10.1083/jcb.145.6.1265",
+        "10.1083/jcb.150.6.1423",
+        "10.1083/jcb.59.2.456",
+        "10.1096/fj.201802649r",
+        "10.1111/j.1460-9568.1996.tb01230.x",
+        "10.1126/science.1056490",
+        "10.1126/scisignal.2000196",
+        "10.1371/journal.pone.0097736",
+        "10.1523/jneurosci.17-10-03568.1997",
+        "10.1523/jneurosci.18-01-00184.1998",
+        "10.1523/jneurosci.23-03-00927.2003",
+        "10.1523/jneurosci.2484-15.2015",
+        "10.1523/jneurosci.5261-13.2014",
+        "10.1523/jneurosci.5464-09.2010",
+        "10.3389/fncel.2022.857664",
+        "10.3389/fnmol.2017.00346"
+      ]
+    },
+    {
+      "statement": "Hormone-sensitive membrane domain reorganization provides a mechanism linking systemic stress responses to local cellular signaling. TrkB receptors contain cholesterol-recognition motifs that enable direct modulation by membrane lipid changes, while stress hormones can prevent injury-induced cholesterol depletion in neural tissue.",
+      "supporting_dois": [
+        "10.1002/jcp.1041220109",
+        "10.1007/s10571-023-01438-1",
+        "10.1016/j.cell.2021.01.034",
+        "10.1038/ncomms12896",
+        "10.1038/srep09198",
+        "10.1042/bc20070108",
+        "10.1080/01616412.1981.11739608",
+        "10.1111/ejn.15218",
+        "10.1126/science.275.5306.1640",
+        "10.1126/science.7394518",
+        "10.1242/jcs.02296",
+        "10.1523/jneurosci.2935-14.2015",
+        "10.1523/jneurosci.3420-05.2006",
+        "10.1523/jneurosci.4587-06.2007",
+        "10.3791/57789",
+        "10.3791/57789-v"
+      ]
+    },
+    {
+      "statement": "The convergence of lipid raft reorganization and TrkB-mediated calcium signaling creates a novel therapeutic paradigm for neural regeneration. Understanding how cholesterol redistribution modulates receptor clustering and subsequent calcium dynamics may reveal innovative targets for enhancing axonal repair through lipid-based interventions.",
+      "supporting_dois": [
+        "10.1002/cbin.12111",
+        "10.1016/j.celrep.2014.06.014",
+        "10.2174/187152208787169161"
+      ]
+    }
+  ]
+}

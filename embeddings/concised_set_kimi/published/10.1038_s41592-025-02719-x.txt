@@ -1,0 +1,1 @@
+We hypothesize that DIA proteomics tools systematically miss FDR targets, especially in single-cell data. By treating entrapment experiments as rigorous statistical benchmarks rather than ad-hoc controls, we will expose these failures and deliver the first validated protocol for definitive, experiment-independent assessment of error-rate claims across search platforms.

@@ -1,0 +1,1 @@
+Viral genomes encode thousands of cryptic regulatory peptides within noncanonical open reading frames that orchestrate translation control and immune evasion. Massively parallel ribosome profiling systematically maps this hidden translational landscape, revealing how overlapping coding programs maximize viral genome functionality and generate novel immunotherapeutic targets.

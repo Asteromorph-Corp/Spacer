@@ -1,0 +1,1 @@
+Bacterial laccases will be reprogrammed for direct PAH oxidation by sculpting substrate tunnels that guide bulky aromatics into the copper center while shielding the catalytic core; crystallography-guided computational redesign pinpoints mutations that enlarge channels without perturbing electron flow, creating robust biocatalysts that bypass recalcitrant intermediates.

@@ -1,0 +1,143 @@
+{
+  "concept": "Matrix metalloproteinase-mediated proteolysis may release sequestered VEGF from extracellular matrix components, potentially enabling rapid angiogenesis through localized matrix remodeling rather than hypoxia-dependent transcriptional pathways.",
+  "rationale": [
+    {
+      "statement": "The extracellular matrix serves as a molecular reservoir for VEGF and other growth factors. These factors exist in latent conformations within matrix proteins until proteolytic processing exposes their receptor-binding domains, providing a mechanism for controlled bioavailability.",
+      "supporting_dois": [
+        "10.1074/jbc.272.11.7151",
+        "10.1074/jbc.274.45.32127",
+        "10.1074/jbc.m113.451831",
+        "10.1083/jcb.124.1.171",
+        "10.1083/jcb.200409115",
+        "10.1101/gad.14.2.163",
+        "10.1128/mcb.00821-07",
+        "10.1359/jbmr.2001.16.7.1281",
+        "10.1369/0022155411401748",
+        "10.1371/journal.pone.0011860",
+        "10.3892/ijmm.2011.719"
+      ]
+    },
+    {
+      "statement": "Specific matrix metalloproteinases demonstrate documented capacity to cleave matrix proteins and release bioactive VEGF isoforms. MMP-2 and MMP-9 process fibronectin and heparan sulfate proteoglycans, while MMPs 1, 3, 7, and 13 cleave CTGF to liberate active VEGF with retained biological activity.",
+      "supporting_dois": [
+        "10.1002/ijc.24473",
+        "10.1002/jcp.1041530317",
+        "10.1002/jcp.1041560204",
+        "10.1021/bi060974p",
+        "10.1074/jbc.272.11.7151",
+        "10.1074/jbc.m112.373159",
+        "10.1074/jbc.m114.627372",
+        "10.1074/jbc.m201674200",
+        "10.1083/jcb.200409115",
+        "10.1091/mbc.4.12.1317",
+        "10.1093/jb/mvn006",
+        "10.1111/j.1067-1927.2005.130116af.x",
+        "10.1126/scisignal.aaa0963",
+        "10.1128/mcb.00821-07",
+        "10.1158/0008-5472.can-04-4553",
+        "10.1161/atvbaha.109.189175",
+        "10.1177/1947603511435273",
+        "10.1210/jc.2004-0860",
+        "10.1242/jcs.115.17.3427",
+        "10.1371/journal.pone.0011860",
+        "10.2337/diab.47.8.1335",
+        "10.3389/fcell.2016.00099"
+      ]
+    },
+    {
+      "statement": "Matrix metalloproteinase activity provides rapid kinetics for VEGF liberation. The enzymatic nature of proteolytic cleavage occurs within minutes to hours, creating localized gradients of bioactive molecules that bypass the slower de novo protein synthesis required for hypoxia-driven responses.",
+      "supporting_dois": [
+        "10.1002/art.23074",
+        "10.1002/jbmr.1958",
+        "10.1074/jbc.271.47.29822",
+        "10.1083/jcb.200409115",
+        "10.1091/mbc.10.4.907",
+        "10.1128/mcb.00821-07",
+        "10.1159/000354513",
+        "10.1161/01.res.0000111527.42357.62",
+        "10.1161/01.res.0000126411.29641.08",
+        "10.1161/01.res.77.3.638",
+        "10.1161/atvbaha.109.189175",
+        "10.1161/hh1501.094269",
+        "10.1371/journal.pone.0011860",
+        "10.1593/neo.05583",
+        "10.2174/1567202614666170718093508",
+        "10.3109/08977199509028967"
+      ]
+    },
+    {
+      "statement": "Ischemic conditions specifically upregulate matrix metalloproteinases involved in VEGF release. MMP-9 expression increases in cerebral ischemia and myocardial infarction, while altered physiological parameters during ischemia modulate MMP-2 and MMP-9 activity and substrate specificity.",
+      "supporting_dois": [
+        "10.1002/cncr.10888",
+        "10.1016/s0008-6363(02)00254-7",
+        "10.1074/jbc.m109.033472",
+        "10.1083/jcb.200409115",
+        "10.1097/00004647-199906000-00005",
+        "10.1097/00004647-200012000-00007",
+        "10.1111/j.1067-1927.2005.130116af.x",
+        "10.1111/j.1600-079x.2010.00797.x",
+        "10.1128/mcb.00821-07",
+        "10.1161/01.cir.0000157149.71297.3a",
+        "10.1161/01.cir.101.15.1833",
+        "10.1161/01.cir.103.17.2181",
+        "10.1161/01.res.0000111527.42357.62",
+        "10.1161/01.str.0000116866.60794.21",
+        "10.1161/01.str.0000177517.01203.eb",
+        "10.1161/atvbaha.109.189175",
+        "10.1161/circulationaha.108.786640",
+        "10.1359/jbmr.050204",
+        "10.1371/journal.pone.0137642",
+        "10.3321/j.issn:1006-7876.2008.02.009",
+        "10.3390/ijms25179442"
+      ]
+    },
+    {
+      "statement": "Multiple experimental models demonstrate angiogenesis through matrix remodeling independent of canonical HIF-1α pathways. Genetic knockout studies show angiogenesis persists in HIF-1α deficient models when matrix remodeling occurs, while in vivo ischemia studies reveal increased vascular density following localized MMP activity.",
+      "supporting_dois": [
+        "10.1002/jcb.240550403",
+        "10.1016/s0021-9258(19)38948-3",
+        "10.1021/bi060974p",
+        "10.1073/pnas.0508085102",
+        "10.1083/jcb.200103111",
+        "10.1083/jcb.200409115",
+        "10.1097/prs.0000000000001699",
+        "10.1101/gad.14.1.34",
+        "10.1128/mcb.00821-07",
+        "10.1161/01.res.0000102937.50486.1b",
+        "10.1161/01.res.0000111527.42357.62",
+        "10.1161/atvbaha.109.189175",
+        "10.1161/circresaha.117.311983",
+        "10.1161/hh1501.094269",
+        "10.1186/1742-4682-8-6",
+        "10.1371/journal.pone.0011860",
+        "10.1523/jneurosci.4555-04.2005",
+        "10.2139/ssrn.3403339"
+      ]
+    },
+    {
+      "statement": "Therapeutic targeting of specific matrix metalloproteinases offers clinical potential with reduced side effects. Broad-spectrum MMP inhibition has faced clinical challenges, but selective targeting of specific MMPs in preclinical models enhances angiogenesis in ischemic areas without widespread matrix disruption.",
+      "supporting_dois": [
+        "10.1002/art.11030",
+        "10.1002/hep.30169",
+        "10.1021/acs.jmedchem.7b01001",
+        "10.1021/ja403523p",
+        "10.1073/pnas.0508085102",
+        "10.1073/pnas.1404605111",
+        "10.1083/jcb.200409115",
+        "10.1155/2011/191670",
+        "10.1161/01.res.0000111527.42357.62",
+        "10.1161/01.res.0000126411.29641.08",
+        "10.1161/01.res.0000260801.12916.b5",
+        "10.1161/hc0602.103674",
+        "10.1161/hh1501.094269",
+        "10.1161/strokeaha.106.481515",
+        "10.1177/0192623309347909",
+        "10.1186/ar2315",
+        "10.1371/journal.pone.0011860",
+        "10.1517/13543784.9.9.2167",
+        "10.1517/eott.7.3.385.22438",
+        "10.3892/mmr.2016.5974"
+      ]
+    }
+  ]
+}

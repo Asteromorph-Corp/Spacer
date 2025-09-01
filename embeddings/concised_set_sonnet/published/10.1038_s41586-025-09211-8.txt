@@ -1,0 +1,1 @@
+Single-cell transcriptomic signatures will be spatially mapped onto a 1-μm resolution mouse brain atlas to test whether molecular cell-type identities align with anatomical boundaries, revealing how cellular organization transcends traditional structural domains and establishing fundamental principles linking molecular identity to spatial brain architecture.

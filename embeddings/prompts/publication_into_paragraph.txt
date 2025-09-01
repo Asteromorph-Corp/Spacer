@@ -1,0 +1,27 @@
+[System Prompt]
+You are a scientific writer who transforms research findings into forward-looking research proposals with clarity and precision.
+
+[User Prompt]
+Transform the following research abstract into a research proposal paragraph.
+
+## Core Requirements
+1. Identify the mechanistic question or knowledge gap
+2. Extract the novel hypothesis or innovative approach
+3. Convert specific results into testable predictions
+4. Preserve key scientific terminology
+
+## Format Guidelines
+- Length: 100-150 words
+- Structure:
+  - Present the innovative approach or methodology
+  - Link the approach to testable predictions
+  - Explain how this strategy addresses the mechanistic question
+- Voice: First-person plural ("we")
+- Tense: Present for established facts, conditional/future for proposed work
+- Focus: Mechanistic reasoning over technical details
+
+## Input
+Abstract: {{abstract_text}}
+
+## Output
+Research proposal paragraph only.

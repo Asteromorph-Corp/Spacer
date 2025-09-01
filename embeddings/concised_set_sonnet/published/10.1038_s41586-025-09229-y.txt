@@ -1,0 +1,1 @@
+Nickel scarcity triggers methanogenic archaea to activate the Hmd-Elp electron-bifurcation system as an alternative to canonical [NiFe]-hydrogenase pathways, maintaining thermodynamic efficiency through conserved Elp-Hdr structural motifs that enable seamless metabolic switching and preserve methane production in nutrient-limited environments.

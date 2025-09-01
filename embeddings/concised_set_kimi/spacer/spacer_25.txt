@@ -1,0 +1,1 @@
+Ruthenium complexes exploit solvent-exposed histidine clusters within Nav1.5's inactivation gate to reversibly coordinate the IFM motif, enabling tunable modulation of fast inactivation kinetics and offering a targeted mechanistic countermeasure for chemotherapy-induced arrhythmias.

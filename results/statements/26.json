@@ -1,0 +1,121 @@
+{
+  "concept": "HSP90 may function as a molecular switch through phosphorylation-dependent conformational changes that enable distinct functional states. These modification-driven states could allow HSP90 to alternate between protein folding and stress response signaling roles during cellular transitions. This switching mechanism suggests that a single chaperone can dynamically balance proteostatic maintenance with signal transduction through post-translational modification patterns.",
+  "rationale": [
+    {
+      "statement": "Post-translational modifications serve as rapid regulatory mechanisms that expand chaperone functional repertoires beyond basal folding activities. The chaperone code concept demonstrates how combinatorial modification patterns can dictate diverse functional outcomes without requiring changes in gene expression.",
+      "supporting_dois": [
+        "10.1002/chem.202403676",
+        "10.1002/pro.5255",
+        "10.1016/j.celrep.2016.03.046",
+        "10.1016/j.celrep.2019.01.018",
+        "10.1016/j.celrep.2020.108063",
+        "10.1016/j.cstres.2023.11.001",
+        "10.1038/ncomms15328",
+        "10.1038/s41598-018-25329-4",
+        "10.1096/fasebj.27.1_supplement.27.1",
+        "10.1126/science.272.5267.1497",
+        "10.1371/journal.pcbi.1003324",
+        "10.1371/journal.pone.0086547",
+        "10.1517/17460441.2.10.1403",
+        "10.3389/fmolb.2014.00004",
+        "10.4161/cib.24925",
+        "10.9734/bjmmr/2016/24631"
+      ]
+    },
+    {
+      "statement": "Phosphorylation at specific HSP90 residues induces measurable structural and functional changes. Modifications at sites like Tyr313 and serine residues alter ATPase activity, co-chaperone recruitment, and conformational dynamics, creating distinct molecular states observable through structural biology approaches.",
+      "supporting_dois": [
+        "10.1002/pro.5255",
+        "10.1016/j.dib.2015.10.028",
+        "10.1016/j.molcel.2021.07.023",
+        "10.1016/s0021-9258(19)50533-6",
+        "10.1016/s0021-9258(19)81631-9",
+        "10.1021/acs.jctc.7b00766",
+        "10.1038/ncomms15328",
+        "10.1038/s41467-019-10463-y",
+        "10.1038/s41467-022-35143-2",
+        "10.1038/s41467-023-37659-7",
+        "10.1038/s41594-023-01128-y",
+        "10.1038/s44319-024-00193-8",
+        "10.1038/srep33179",
+        "10.1074/jbc.m800540200",
+        "10.1517/17460441.2.10.1403",
+        "10.4161/cc.9.12.12054"
+      ]
+    },
+    {
+      "statement": "Phosphorylation-induced conformational states enable functional switching by differentially affecting protein interactions. Modified HSP90 shows altered binding to co-chaperones like Aha1 and exhibits changes in client protein specificity, facilitating transitions between folding and signaling roles.",
+      "supporting_dois": [
+        "10.1002/pro.5255",
+        "10.1016/j.celrep.2015.12.084",
+        "10.1016/j.dib.2015.10.028",
+        "10.1016/s0021-9258(19)81631-9",
+        "10.1021/bi035001t",
+        "10.1038/s41467-019-10463-y",
+        "10.1038/s41598-017-17126-2",
+        "10.1038/srep33179",
+        "10.1038/srep43996",
+        "10.1042/bj20110855",
+        "10.1042/bj20130963",
+        "10.1073/pnas.1424342112",
+        "10.1074/jbc.270.48.28654",
+        "10.1074/jbc.m512613200",
+        "10.1074/jbc.m803289200",
+        "10.1091/mbc.e07-05-0467",
+        "10.1158/0008-5472.can-07-3268",
+        "10.4161/cc.9.12.12054",
+        "10.9734/bjmmr/2016/24631"
+      ]
+    },
+    {
+      "statement": "Experimental validation through phosphomimetic mutants, targeted mutagenesis, and kinetic modeling confirms that phosphorylation causally drives functional alternation. These studies demonstrate that modification states directly control HSP90's conformational landscapes and enzymatic properties.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2012.08.035",
+        "10.1016/j.celrep.2015.12.084",
+        "10.1016/j.celrep.2016.03.046",
+        "10.1016/s0021-9258(19)81631-9",
+        "10.1038/ncomms15328",
+        "10.1038/s41467-019-10463-y",
+        "10.1038/s41467-020-15050-0",
+        "10.1038/s41598-017-17126-2",
+        "10.1073/pnas.93.25.14536",
+        "10.1074/jbc.m105562200",
+        "10.1096/fasebj.28.1_supplement.1097.15",
+        "10.1126/science.1127344",
+        "10.1128/mcb.05117-11",
+        "10.1128/mcb.15.7.3917",
+        "10.1158/0008-5472.can-08-0644",
+        "10.1210/en.2015-2055",
+        "10.1364/oe.23.023887",
+        "10.1371/journal.pcbi.1000323",
+        "10.1517/17460441.2.10.1403",
+        "10.3389/fmolb.2014.00004"
+      ]
+    },
+    {
+      "statement": "HSP90 phosphorylation responds dynamically to cellular state transitions and stress conditions. Phosphoproteomics and single-cell analyses reveal temporal fluctuations in modification patterns that correlate with proteostatic reprogramming during differentiation and stress responses.",
+      "supporting_dois": [
+        "10.1002/stem.1143",
+        "10.1016/0014-5793(91)81320-8",
+        "10.1016/j.celrep.2015.12.084",
+        "10.1016/j.celrep.2018.02.083",
+        "10.1016/j.molcel.2008.07.021",
+        "10.1016/s0021-9258(19)81631-9",
+        "10.1038/s41467-019-10463-y",
+        "10.1038/s41467-022-35143-2",
+        "10.1038/s41467-023-37659-7",
+        "10.1046/j.1432-1327.2001.02105.x",
+        "10.1073/pnas.93.25.14536",
+        "10.1126/scisignal.2001570",
+        "10.1158/1535-7163.1021.3.8",
+        "10.1186/s12918-017-0410-8",
+        "10.18632/oncotarget.272",
+        "10.3389/fcimb.2021.637836",
+        "10.3390/i8010060",
+        "10.4161/cc.9.12.12054",
+        "10.5812/gct.81887",
+        "10.9734/bjmmr/2016/24631"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "concept": "Phosphorylation-dependent ubiquitination of histone deacetylases may establish bistable epigenetic switches that sustain chromatin accessibility at proteostasis gene loci. This putative mechanism could convert transient stress signals into persistent epigenetic states, enhancing cellular proteostatic capacity during aging through self-reinforcing molecular circuits.",
+  "rationale": [
+    {
+      "statement": "Stress-activated kinases phosphorylate histone deacetylases at specific sites, triggering their ubiquitination by activated E3 ligases and subsequent proteasomal degradation. This phospho-ubiquitin cascade directly opens chromatin at target gene loci by removing repressive histone deacetylation activity.",
+      "supporting_dois": [
+        "10.1038/s41467-019-11224-7",
+        "10.1073/pnas.0510664103",
+        "10.1073/pnas.2407490121",
+        "10.1074/jbc.m113.523530",
+        "10.1074/jbc.m115.649269",
+        "10.1083/jcb.200510071",
+        "10.1091/mbc.e10-07-0616",
+        "10.1093/nar/gks1319",
+        "10.1093/plphys/kiad587",
+        "10.1126/sciadv.abd4413",
+        "10.1126/scisignal.2005290",
+        "10.1186/s13059-017-1261-8",
+        "10.1523/jneurosci.2522-07.2007",
+        "10.4161/cc.5.23.3522"
+      ]
+    },
+    {
+      "statement": "Mathematical models demonstrate that cooperative recruitment of chromatin-modifying enzymes can establish bistable epigenetic states with hysteresis properties. These switches arise from positive feedback loops where initial chromatin opening self-reinforces through sustained kinase activity and continued HDAC degradation.",
+      "supporting_dois": [
+        "10.1002/advs.202303224",
+        "10.1016/j.cels.2022.12.003",
+        "10.1038/s41467-019-10130-2",
+        "10.1073/pnas.0308265100",
+        "10.1073/pnas.2313370121",
+        "10.1074/jbc.272.28.17749",
+        "10.1088/1478-3975/10/3/036005",
+        "10.1088/1478-3975/4/4/002",
+        "10.1088/1478-3975/7/2/026010",
+        "10.1093/nar/gkv220",
+        "10.1103/physreve.89.010701",
+        "10.1128/mcb.19.4.2547",
+        "10.1128/mcb.21.23.8213-8224.2001",
+        "10.1371/journal.pbio.1000332",
+        "10.1371/journal.pcbi.1000235",
+        "10.1371/journal.pcbi.1002317",
+        "10.1371/journal.pcbi.1003121",
+        "10.1371/journal.pone.0073487",
+        "10.1371/journal.pone.0113516"
+      ]
+    },
+    {
+      "statement": "During proteotoxic stress, the ubiquitin system undergoes dynamic reallocation from canonical proteasomal degradation to chromatin remodeling functions. This molecular repurposing enables the establishment of persistent epigenetic modifications that outlast the initial stress stimulus.",
+      "supporting_dois": [
+        "10.1021/bi970998j",
+        "10.1038/s41467-017-01903-8",
+        "10.1083/jcb.200510071",
+        "10.1083/jcb.201912041",
+        "10.1093/nar/gkv220",
+        "10.1128/mcb.14.12.7876-7883.1994",
+        "10.1134/s0026898419040086"
+      ]
+    },
+    {
+      "statement": "Enhanced chromatin accessibility at proteostasis gene promoters directly increases transcription of chaperones, autophagy factors, and stress response proteins. This elevated expression provides sustained enhancement of cellular capacity to manage protein misfolding and aggregation during aging.",
+      "supporting_dois": [
+        "10.1002/dvg.1020140110",
+        "10.1016/j.celrep.2017.10.038",
+        "10.1016/j.jbc.2024.106449",
+        "10.1042/bcj20210314",
+        "10.1073/pnas.2210745120",
+        "10.1074/jbc.274.35.24914",
+        "10.1074/jbc.m010931200",
+        "10.1091/mbc.e16-08-0618",
+        "10.1093/jb/mvae016",
+        "10.1096/fasebj.23.1_supplement.668.1",
+        "10.1105/tpc.15.01022",
+        "10.1111/acel.13171",
+        "10.1111/febs.15180",
+        "10.1126/scisignal.aaa2213",
+        "10.1159/000109187",
+        "10.3410/b2-79"
+      ]
+    },
+    {
+      "statement": "Evolutionary conservation of functional phosphorylation sites on proteostasis proteins and empirical evidence of transgenerational epigenetic inheritance support the biological significance of this mechanism. Early-life stress can establish persistent histone modifications that maintain elevated proteostasis gene accessibility into old age.",
+      "supporting_dois": [
+        "10.1002/advs.202414297",
+        "10.1016/j.isci.2022.104519",
+        "10.1038/s41467-019-10136-w",
+        "10.1073/pnas.1402275111",
+        "10.1093/bioinformatics/btn197",
+        "10.1093/jb/mvae016",
+        "10.1098/rstb.2012.0078",
+        "10.1111/acel.12172",
+        "10.1111/jnc.14014",
+        "10.1111/nyas.14992",
+        "10.1111/pce.15220",
+        "10.1126/sciadv.abc3026",
+        "10.1152/japplphysiol.00469.2010",
+        "10.12703/p6-07",
+        "10.1371/journal.pbio.1002426",
+        "10.1371/journal.pgen.1008122",
+        "10.18632/aging.203018",
+        "10.2139/ssrn.3937606",
+        "10.7554/elife.73425"
+      ]
+    }
+  ]
+}

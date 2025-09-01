@@ -1,0 +1,1 @@
+Cortical gamma rhythms encode predictions only while cellular ATP buffers parvalbumin-interneuron firing; we test whether falling ATP/ADP destabilizes these rhythms via metabolic gating, uniquely linking bioenergetic flux to the temporal precision that governs predictive coding fidelity under metabolic stress.

@@ -1,0 +1,1 @@
+The BioEmu platform is designed for deep learning analysis of protein ensembles derived from molecular dynamics simulations. This analysis allows identification of cryptic pockets and domain rearrangements, along with calculation of free energies. The platform utilizes GPU-accelerated molecular dynamics and incorporates training algorithms to compute protein stabilities.

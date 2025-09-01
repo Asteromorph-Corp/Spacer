@@ -1,0 +1,1 @@
+Entrapment experiments will systematically expose false discovery rate control failures in data-independent acquisition proteomics software by implementing rigorous theoretical frameworks that definitively assess whether tools achieve stated error thresholds, revealing widespread deficiencies particularly in single-cell datasets where current validation methods prove inadequate.

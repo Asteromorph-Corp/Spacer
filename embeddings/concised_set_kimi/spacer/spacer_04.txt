@@ -1,0 +1,1 @@
+Matrix metalloproteinases unlock extracellular VEGF reservoirs, enabling hypoxia-independent angiogenesis through rapid proteolytic release. We exploit this mechanistic bypass by selective MMP targeting to trigger localized vascularization in HIF-1α-deficient ischemic tissues, distinguishing our precision approach from indiscriminate MMP inhibition strategies.

@@ -1,0 +1,1 @@
+We hypothesize that natural quorum-sensing crosstalk in multispecies biofilms encodes evolution-hardened interaction grammars; by experimentally decoding these grammars and translating them into orthogonal synthetic circuits, we bypass de-novo engineering to program microbial consortia with durable, predictable dynamics inherited from nature’s own stability algorithms.

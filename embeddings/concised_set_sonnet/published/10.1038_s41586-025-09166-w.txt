@@ -1,0 +1,1 @@
+R9AP functions as a universal EBV entry receptor through distinct conformational states that enable differential cooperative mechanisms with gH/gL-EPHA2 in epithelial cells versus gp42-HLA class II in B cells, revealing how single receptors orchestrate cell-type-specific fusion kinetics while maintaining broad viral tropism.

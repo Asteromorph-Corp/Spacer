@@ -1,0 +1,1 @@
+Metabolic enzymes dictate lineage choice: OGDH gates αKG microdomains that reprogram chromatin through lineage-specific tuning. We decode this switch by lineage-resolved perturbation of OGDH, revealing αKG as a TCA-derived epigenetic messenger that converts metabolic flux into cell-fate decisions.

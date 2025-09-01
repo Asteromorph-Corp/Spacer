@@ -1,0 +1,1 @@
+Leveraging tellurium nanowire networks' intrinsic narrow-bandgap absorption and asymmetric geometry, we propose that controllable interwire field gradients drive wavelength-agnostic charge separation, enabling a single biointegrated layer to replicate natural photopic, scotopic, and near-infrared retinal signaling.

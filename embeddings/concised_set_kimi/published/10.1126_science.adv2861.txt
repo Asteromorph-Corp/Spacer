@@ -1,0 +1,1 @@
+Zincore’s arginine clamp converts transient zinc-finger DNA contacts into locked, transcriptionally active complexes; structure-guided mutagenesis will dissect how this universal stabilizing switch, not initial recognition, dictates ZNF specificity across the proteome, redefining cofactor-mediated gene control in development.

@@ -1,0 +1,1 @@
+We hypothesize that ordered rRNA maturation act as directional signals that choreograph transcript migration across nucleolar phases; we will decode this program with real-time sequencing-imaging and rewire it with synthetic nucleoli, uniquely revealing RNA checkpoints as programmable gatekeepers that sculpt condensate architecture.

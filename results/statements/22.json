@@ -1,0 +1,141 @@
+{
+  "concept": "Voltage-gated calcium channel nanoclusters at axon initial segments may function as signal-responsive molecular assemblies that create a logic-based mechanism for dynamically modulating neuronal excitability. Local calcium transients through these clustered channels could activate calcium-dependent kinases that phosphorylate adjacent voltage-gated sodium channels, potentially enabling coordinated ion channel modifications at this critical cellular junction to adjust action potential thresholds in response to neuronal activity.",
+  "rationale": [
+    {
+      "statement": "The axon initial segment contains a highly organized nanostructure where scaffolding proteins like Ankyrin-G stabilize voltage-gated calcium and sodium channels into precise spatial arrangements. Super-resolution microscopy reveals submembrane lattices with nanoscale spacing that enables efficient signaling. This evolutionary conserved organization across bilaterian lineages indicates fundamental functional requirements for excitability control.",
+      "supporting_dois": [
+        "10.1002/cne.21173",
+        "10.1002/cne.23551",
+        "10.1002/jnr.20378",
+        "10.1016/j.bbrc.2021.09.017",
+        "10.1016/j.celrep.2015.11.051",
+        "10.1073/pnas.1909989116",
+        "10.1074/jbc.m115.638932",
+        "10.1083/jcb.143.5.1295",
+        "10.1083/jcb.200109026",
+        "10.1103/physreve.84.052901",
+        "10.1126/sciadv.aau8621",
+        "10.1371/journal.pgen.1006457",
+        "10.1523/jneurosci.4812-05.2006",
+        "10.3791/61411-v",
+        "10.7554/elife.87078.3"
+      ]
+    },
+    {
+      "statement": "Nanocluster organization of voltage-gated calcium channels promotes localized calcium signaling within sub-diffraction-limit domains. Calcium-dependent facilitation and inactivation mechanisms provide intrinsic regulation that adapts channel function to ongoing activity. This spatial organization enables millisecond-precision calcium transients that match temporal requirements for kinase activation without global calcium elevation.",
+      "supporting_dois": [
+        "10.1016/j.celrep.2015.11.051",
+        "10.1016/j.celrep.2024.114428",
+        "10.1038/s41598-019-53095-4",
+        "10.1038/srep36028",
+        "10.1042/bst0340887",
+        "10.1073/pnas.1313898110",
+        "10.1074/jbc.271.47.29993",
+        "10.1074/jbc.275.5.3722",
+        "10.1111/j.1460-9568.2006.04734.x",
+        "10.1113/jp270091",
+        "10.1126/science.1068278",
+        "10.1126/science.1198106",
+        "10.1126/science.2543080",
+        "10.1126/science.279.5348.227",
+        "10.1371/journal.pcbi.1012564",
+        "10.1371/journal.pone.0005587",
+        "10.1523/jneurosci.0277-13.2013",
+        "10.1523/jneurosci.0967-17.2017",
+        "10.1523/jneurosci.17-18-06961.1997",
+        "10.1523/jneurosci.17-19-07252.1997",
+        "10.1523/jneurosci.19-11-04325.1999",
+        "10.1523/jneurosci.23-36-11352.2003",
+        "10.1523/jneurosci.2651-10.2010",
+        "10.1523/jneurosci.2843-20.2021",
+        "10.1523/jneurosci.2921-12.2013",
+        "10.1523/jneurosci.3838-11.2012",
+        "10.7554/elife.54566"
+      ]
+    },
+    {
+      "statement": "CaMKII demonstrates direct co-localization with Nav1.6 channels at the axon initial segment, forming signaling complexes essential for excitability modulation. Pharmacological CaMKII inhibition produces measurable 5.8-mV shifts in Nav1.6 activation voltage dependence, providing quantitative evidence that kinase phosphorylation directly links calcium signals to action potential thresholds.",
+      "supporting_dois": [
+        "10.1016/j.febslet.2014.07.032",
+        "10.1016/s0021-9258(18)41976-x",
+        "10.1021/pr901171q",
+        "10.1042/bst0341299",
+        "10.1074/jbc.ra120.014062",
+        "10.1126/science.1658937",
+        "10.1126/science.8396273",
+        "10.1523/jneurosci.2651-10.2010",
+        "10.1523/jneurosci.2843-20.2021",
+        "10.3390/cells11132108",
+        "10.7554/elife.54566"
+      ]
+    },
+    {
+      "statement": "Phosphorylation sites on voltage-gated sodium channels affect gating properties and expression on physiological timescales matching action potential generation. Phosphorylation-dependent modulation of sodium channel inactivation kinetics influences repetitive firing properties, creating dynamic control mechanisms where calcium inputs gate excitability outputs through coordinated ion channel modifications.",
+      "supporting_dois": [
+        "10.1021/bi00446a020",
+        "10.1021/pr300702c",
+        "10.1042/bst0341299",
+        "10.1073/pnas.0811615106",
+        "10.1073/pnas.1511740112",
+        "10.1073/pnas.94.13.7012",
+        "10.1085/jgp.202012646",
+        "10.1126/science.1124254",
+        "10.1126/science.1656525",
+        "10.1126/science.1658937",
+        "10.1126/science.2176745",
+        "10.1152/jn.01056.2010",
+        "10.1161/circulationaha.114.015218",
+        "10.1371/journal.pcbi.1000850",
+        "10.1523/jneurosci.3970-06.2006",
+        "10.1523/jneurosci.5443-12.2013",
+        "10.7554/elife.64087"
+      ]
+    },
+    {
+      "statement": "Negative feedback mechanisms involving calcineurin phosphatase activity counteract excessive phosphorylation, ensuring balanced modulation of voltage-gated sodium channels. This regulatory framework integrates with homeostatic plasticity mechanisms through CaMKIV and calcineurin to maintain stable neuronal firing rates over extended timescales while enabling rapid threshold adjustments.",
+      "supporting_dois": [
+        "10.1002/jcb.23419",
+        "10.1074/jbc.270.13.7750",
+        "10.1126/science.1658937",
+        "10.1152/jn.00253.2016",
+        "10.1152/jn.00741.2010",
+        "10.1152/jn.90346.2008",
+        "10.1371/journal.pbio.1001900",
+        "10.1371/journal.pone.0055590",
+        "10.1523/eneuro.0135-21.2021",
+        "10.1523/jneurosci.0618-17.2017",
+        "10.1523/jneurosci.17-10-03379.1997",
+        "10.15252/embr.202052094"
+      ]
+    },
+    {
+      "statement": "Understanding axon initial segment nanodomain regulation has therapeutic significance, as mutations in ANK3 are linked to intellectual disability and autism, while SCN8A mutations cause epileptic encephalopathy or intellectual disability. These disorder-specific connections demonstrate that disruptions in nanocluster components produce distinct pathological phenotypes, identifying targetable nodes for restoring excitability patterns in dysfunctional neural circuits.",
+      "supporting_dois": [
+        "10.1002/humu.22174",
+        "10.1002/wmts.38",
+        "10.1007/s10048-021-00655-4",
+        "10.1016/j.nbd.2014.05.017",
+        "10.1016/j.neuron.2014.11.019",
+        "10.1038/srep36028",
+        "10.1074/jbc.274.36.25439",
+        "10.1093/brain/awab321",
+        "10.1093/brain/awy324",
+        "10.1093/brain/awy326",
+        "10.1093/hmg/ddt043",
+        "10.1097/00004647-199601000-00001",
+        "10.1101/mcs.a003293",
+        "10.1111/cge.14587",
+        "10.1111/ejn.13299",
+        "10.1126/science.2543080",
+        "10.1136/jmedgenet-2014-102813",
+        "10.1152/jn.1990.64.4.1291",
+        "10.1152/jn.90332.2008",
+        "10.1159/000526381",
+        "10.1161/strokeaha.113.001030",
+        "10.1177/2398212818794805",
+        "10.1212/nxg.0000000000000170",
+        "10.1371/journal.pone.0066427"
+      ]
+    }
+  ]
+}

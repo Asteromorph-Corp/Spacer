@@ -1,0 +1,1 @@
+ATM/ATR kinases create temporal checkpoints coordinating BRCA2-RAD51 RNA invasion with DHX36-FANCJ unwinding during G-quadruplex regulation. Single-molecule imaging combined with synchronized biochemical reconstitution will dissect how G-loop assembly kinetics control the balance between transcriptional regulation and genome stability through dynamic RNA-DNA hybrid intermediates.

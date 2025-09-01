@@ -1,0 +1,1 @@
+Exploiting the discovery that over 1600 human proteins contain CRBN-compatible G-loop motifs beyond traditional β-hairpin structures, this research develops computational algorithms to predict novel degradable targets and engineers molecular glue compounds that reprogram CRL4 CRBN specificity toward previously undruggable proteins through surface mimicry mechanisms.

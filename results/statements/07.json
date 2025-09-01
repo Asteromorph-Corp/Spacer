@@ -1,0 +1,101 @@
+{
+  "concept": "Stress-induced glucocorticoids may trigger localized protein synthesis in microglia through mTOR/MAPK pathways. This process could drive selective production of anti-inflammatory surface receptors that reshape neuroimmune signaling interfaces. These molecular changes may modulate behavioral outcomes via altered cytokine-binding protein expression.",
+  "rationale": [
+    {
+      "statement": "Glucocorticoids activate mTOR and MAPK signaling pathways in microglia through receptor-mediated mechanisms. Post-translational modifications of glucocorticoid receptors regulate their stability and activity within hours. These pathways are evolutionarily conserved stress response regulators that enable precise control over protein expression in glial cells.",
+      "supporting_dois": [
+        "10.1002/glia.10314",
+        "10.1002/jcb.21745",
+        "10.1016/s0021-9258(18)71692-x",
+        "10.1038/srep19137",
+        "10.1042/bj20021085",
+        "10.1074/jbc.270.28.16756",
+        "10.1074/jbc.m106033200",
+        "10.1074/jbc.m116.744482",
+        "10.1096/fj.06-6752com",
+        "10.1097/00001756-199911260-00019",
+        "10.1111/j.1528-1167.2012.03478.x",
+        "10.1158/1078-0432.ccr-05-2202",
+        "10.1172/jci132727",
+        "10.1186/1742-2094-11-125",
+        "10.1186/1742-2094-9-2",
+        "10.1210/en.2002-220135",
+        "10.1210/me.2003-0350",
+        "10.1210/me.2007-0360",
+        "10.1210/me.2008-0257",
+        "10.1515/hmbci.2010.039",
+        "10.1523/jneurosci.2754-19.2020",
+        "10.1677/jme-08-0015",
+        "10.18632/genesandcancer.41",
+        "10.2147/btt.s3820",
+        "10.3233/nib-140083",
+        "10.4049/jimmunol.163.4.2113"
+      ]
+    },
+    {
+      "statement": "Microglia employ rapid translational control mechanisms to regulate immunomodulatory protein expression in response to stress. Ribosome profiling confirms glucocorticoid-driven selective protein synthesis occurs within minutes to hours. Post-transcriptional mechanisms allow dissociation between mRNA and protein networks, enabling homeostatic protein signatures despite inflammatory transcripts.",
+      "supporting_dois": [
+        "10.1002/alz.082840",
+        "10.1002/alz.087688",
+        "10.1016/0960-0760(95)00174-x",
+        "10.1016/j.celrep.2017.11.058",
+        "10.1016/j.csbj.2022.09.042",
+        "10.1016/j.molcel.2019.11.010",
+        "10.1016/j.ymthe.2024.01.004",
+        "10.1016/s0021-9258(17)43531-9",
+        "10.1073/pnas.83.1.72",
+        "10.1172/jci132727",
+        "10.1210/endo-119-6-2598",
+        "10.1523/jneurosci.2427-21.2022"
+      ]
+    },
+    {
+      "statement": "Stress triggers immediate morphological changes and surface receptor expression in microglia within minutes to hours. Single-cell RNA sequencing reveals distinct microglial subtypes with specific translational profiles linked to stress responses. The composition of surface receptors and cytokine-binding proteins dictates microglial interactions with neurons, directly influencing synaptic function and neuronal excitability.",
+      "supporting_dois": [
+        "10.1002/glia.22366",
+        "10.1016/j.celrep.2021.110128",
+        "10.1016/j.jphs.2022.12.010",
+        "10.1055/s-0029-1215736",
+        "10.1093/cercor/bhs151",
+        "10.1098/rstb.2014.0194",
+        "10.1111/gbb.70019",
+        "10.1126/science.1110647",
+        "10.1155/2015/941413",
+        "10.1186/s12950-018-0205-8",
+        "10.1186/s12974-016-0508-8",
+        "10.1186/s12974-023-02836-4",
+        "10.1371/journal.pbio.1000527",
+        "10.1371/journal.pone.0081218",
+        "10.1515/nf-2005-0304",
+        "10.1523/jneurosci.1781-07.2007",
+        "10.1523/jneurosci.2061-14.2015",
+        "10.1523/jneurosci.3561-14.2015",
+        "10.1523/jneurosci.4363-08.2009",
+        "10.15252/embr.201846171",
+        "10.2139/ssrn.3677475",
+        "10.3389/fncel.2017.00233",
+        "10.7554/elife.83176"
+      ]
+    },
+    {
+      "statement": "Microglial activation states are causally linked to behavioral outcomes through documented neuroinflammatory pathways. Longitudinal imaging demonstrates sustained microglial activation correlates with persistent depressive and anxiety behaviors. Pharmacological microglial depletion prevents stress-induced behavioral deficits, establishing their causal role in mood and cognitive alterations.",
+      "supporting_dois": [
+        "10.1002/glia.24053",
+        "10.1038/s41598-018-28737-8",
+        "10.1073/pnas.1911816117",
+        "10.1093/icb/icp009",
+        "10.1093/ijnp/pyw043.217",
+        "10.1111/gbb.70019",
+        "10.1124/jpet.123.001759",
+        "10.1186/s12974-016-0672-x",
+        "10.1186/s12974-018-1054-3",
+        "10.1186/s12974-019-1632-z",
+        "10.1523/jneurosci.0184-19.2019",
+        "10.1523/jneurosci.0450-11.2011",
+        "10.1523/jneurosci.1781-07.2007",
+        "10.1523/jneurosci.2785-18.2018",
+        "10.4103/1673-5374.272575"
+      ]
+    }
+  ]
+}

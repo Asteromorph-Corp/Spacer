@@ -1,0 +1,1 @@
+We hypothesize that Ki67-positive progenitors display stage-specific transcriptomes charting neurogenesis progression; integrating snRNA-seq with machine-learning-guided spatial proteomics will map these molecular trajectories within the human dentate gyrus, revealing age- and disease-responsive regulators of adult hippocampal neurogenesis.

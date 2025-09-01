@@ -1,0 +1,1 @@
+Phase-locking between endogenous Hes1 ultradian oscillators and imposed circadian-scale signals mechanistically governs progenitor fate; we will exploit this multi-scale temporal coupling to deterministically steer differentiation trajectories by entraining phase relationships with external periodic cues, establishing precise temporal control over cell identity.

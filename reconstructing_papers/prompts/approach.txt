@@ -1,0 +1,15 @@
+## Task
+Identify whether the provided ideas share the same approach or not.
+
+## Elements to Consider
+If the ideas share the same method or strategy, they are likely to have the same approach.
+
+## Instructions
+1. Read the two provided ideas carefully.
+2. Only return "yes" or "no" without any additional text or explanation.
+
+## First Idea
+{{first_idea}}
+
+## Second Idea
+{{second_idea}}

@@ -1,0 +1,1 @@
+The research idea centers on developing and validating software tools for false discovery rate (FDR) control in mass spectrometry-based proteomics. This involves creating methods to validate the accuracy of FDR control in both data-dependent and data-independent acquisition (DIA) approaches, as well as applying these validation methods to more complex single-cell datasets.

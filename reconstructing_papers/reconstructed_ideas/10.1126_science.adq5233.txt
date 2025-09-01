@@ -1,0 +1,1 @@
+Stress-induced norepinephrine signaling triggers astroglial release of adenosine triphosphate, which is metabolized into adenosine. This adenosine then activates neuronal adenosine receptors specifically within the hindbrain. The activation of these receptors modulates purinergic signaling and neuron-glial interactions, ultimately driving futility responses.

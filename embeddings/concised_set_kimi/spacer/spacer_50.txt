@@ -1,0 +1,1 @@
+Systematically perturb lineage-specific enhancer accessibility to test whether pioneer-factor-remodeled chromatin causally triggers T cell fate switches, using CRISPR-dCas9 epigenetic editing coupled with temporal single-cell multiomics to isolate accessibility-driven network specification from downstream feedback loops.

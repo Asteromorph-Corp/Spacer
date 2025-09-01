@@ -1,0 +1,1 @@
+Mitochondrial calcium uniporter-mediated ATP microdomains at presynaptic terminals directly regulate vesicle fusion kinetics by coupling local calcium influx to oxidative phosphorylation, creating millisecond-scale metabolic control that optimizes neurotransmitter release probability and enables activity-dependent energetic modulation of neural circuit timing precision.

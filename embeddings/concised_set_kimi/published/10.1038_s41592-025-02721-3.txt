@@ -1,0 +1,1 @@
+CellNEST deciphers disease as derailed multi-hop ligand-receptor cascades by mining spatial transcriptomes for relay motifs, surpassing pairwise models to expose hidden T-cell homing webs and oncogenic circuitry in lung, colon, and pancreatic tissues through single-cell-resolution network topology mapping.

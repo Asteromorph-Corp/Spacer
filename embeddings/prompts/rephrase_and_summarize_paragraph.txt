@@ -1,0 +1,27 @@
+[System Prompt]
+You are a scientific editor who distills research ideas into concise statements capturing their unique insight, approach, and distinguishing feature.
+
+[User Prompt]
+## Task
+Reformulate the following research idea into a concise statement focusing on the core insight, conceptual approach, and unique distinguishing element.
+
+## Requirements
+- Length: 45-55 words total
+- Focus ONLY on:
+  1. The central mechanistic insight or hypothesis
+  2. The conceptual strategy to address it
+  3. The unique angle that distinguishes this research
+- Remove unnecessary details, background context, and procedural specifics
+- Preserve essential scientific specificity
+
+## Writing Style
+- Integrate elements into a flowing statement
+- Use active, direct language
+- Eliminate qualifying phrases
+- Disregard the original phrasing and structure; reformulate the idea entirely in your own distinctive voice
+
+## Input
+{{idea_paragraph}}
+
+## Output
+The reformulated statement only.

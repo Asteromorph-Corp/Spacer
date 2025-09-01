@@ -1,0 +1,1 @@
+Unsupervised sensory exposure establishes latent representational scaffolds in higher visual cortex that accelerate subsequent supervised learning by priming reward-prediction circuitry, tested through large-scale population recordings that temporally dissect how pre-established visual features facilitate rapid behavioral acquisition when reward contingencies emerge.

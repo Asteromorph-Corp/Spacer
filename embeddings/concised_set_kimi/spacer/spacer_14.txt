@@ -1,0 +1,1 @@
+We hypothesize dendrites are self-contained neuropeptide factories where NMDA-calcium signals simultaneously encode synaptic plasticity and trigger mTOR-driven local translation, making synaptic computation and hormonal output inseparable within the same microdomain machinery.

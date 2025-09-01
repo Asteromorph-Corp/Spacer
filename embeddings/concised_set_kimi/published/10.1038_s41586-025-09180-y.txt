@@ -1,0 +1,1 @@
+Unsupervised visual experience carves latent cortical scaffolds; we will test whether these pre-structured representations in medial higher areas ignite rapid reward-prediction signals when contingencies appear, transforming passive sensory history into accelerated supervised learning.

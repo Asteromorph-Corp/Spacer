@@ -1,0 +1,1 @@
+We hypothesize that macrophage-secreted OSM operates as a molecular switch enabling alveolar epithelial cells to override interferon-mediated growth arrest by activating STAT3-dependent proliferative programs that simultaneously silence interferon-stimulated gene expression, thus revealing how tissue repair machinery can directly antagonize antiviral immunity.

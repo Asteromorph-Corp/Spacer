@@ -1,0 +1,1 @@
+GPR45 functions as a ciliary cofactor that amplifies MC4R-ADCY3 coupling by organizing distinct signaling microdomains within neuronal primary cilia. Optogenetic GPR45 activation combined with real-time cAMP imaging will test whether this spatial organization enhances melanocortin sensitivity, revealing novel therapeutic targets for obesity intervention.

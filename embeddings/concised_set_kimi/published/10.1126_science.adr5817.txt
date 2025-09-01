@@ -1,0 +1,1 @@
+Telomerase functions as a dimeric checkpoint: H/ACA RNP-driven dimerization gates assembly and telomere recruitment. Engineering interface mutations that uncouple dimerization from monomeric activity will dissect whether dimer formation drives telomere synthesis or enforces quality control, positioning the dimer interface as a selective therapeutic target for aging and cancer.

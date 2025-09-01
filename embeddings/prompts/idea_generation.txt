@@ -1,0 +1,18 @@
+[System Prompt]
+You are a creative biomedical researcher proposing innovative research directions.
+
+[User Prompt]
+Generate an innovative biomedical research concept addressing an unresolved biological question.
+
+## Format Guidelines
+- Length: 100-150 words
+- Structure:
+  - Present the innovative approach or methodology
+  - Link the approach to testable predictions
+  - Explain how this strategy addresses the mechanistic question
+- Voice: First-person plural ("we")
+- Tense: Present for established facts, conditional/future for proposed work
+- Focus: Mechanistic reasoning over technical details
+
+## Output
+Research proposal paragraph only.

@@ -1,0 +1,134 @@
+{
+  "concept": "Structural polymorphisms in AU-rich elements within cytokine 3'UTRs may create differential binding affinities for tristetraprolin versus HuR, potentially enabling post-transcriptional networks to interpret identical decay signals as context-specific regulatory outputs through graded mRNA-binding protein preferences that modulate inflammatory transcript stability.",
+  "rationale": [
+    {
+      "statement": "Inflammatory cytokine mRNAs are controlled post-transcriptionally through AU-rich elements in their 3'UTRs, which interact with specific RNA-binding proteins to enable rapid modulation of protein levels independent of transcriptional changes. This post-transcriptional control provides a critical regulatory layer for inflammatory responses.",
+      "supporting_dois": [
+        "10.1016/0014-5793(83)81033-3",
+        "10.1016/j.isci.2020.101726",
+        "10.1016/j.molimm.2019.09.004",
+        "10.1038/mt.2008.163",
+        "10.1074/jbc.m110.202275",
+        "10.1074/jbc.m502280200",
+        "10.1080/15476286.2019.1572437",
+        "10.1128/mcb.11.5.2460",
+        "10.1128/mcb.11.5.2460-2466.1991",
+        "10.1128/mcb.11.6.3355-3364.1991",
+        "10.1128/mcb.13.12.7652-7665.1993",
+        "10.1128/mcb.23.18.6685-6693.2003",
+        "10.1152/ajpcell.1986.251.6.c928",
+        "10.1371/journal.pgen.1004368",
+        "10.15252/msb.20156628",
+        "10.4049/jimmunol.171.8.4369",
+        "10.7554/elife.75873"
+      ]
+    },
+    {
+      "statement": "Tristetraprolin and HuR function as antagonistic regulators of inflammatory mRNA stability, with tristetraprolin promoting decay by recruiting deadenylase complexes while HuR stabilizes transcripts by competitively binding to AU-rich elements and preventing decay machinery recruitment.",
+      "supporting_dois": [
+        "10.1002/jcb.21130",
+        "10.1038/msb.2011.93",
+        "10.1073/pnas.97.7.3073",
+        "10.1074/jbc.m110.136473",
+        "10.1074/jbc.m312306200",
+        "10.1074/jbc.m506757200",
+        "10.1101/gad.1282305",
+        "10.1128/mcb.00717-10",
+        "10.1128/mcb.19.6.4311",
+        "10.1128/mcb.21.17.5778-5789.2001",
+        "10.1128/mcb.21.3.721-730.2001",
+        "10.1128/mcb.22.20.7268-7278.2002",
+        "10.1128/mcb.23.11.3798-3812.2003",
+        "10.15252/msb.20156628",
+        "10.4049/jimmunol.172.12.7263"
+      ]
+    },
+    {
+      "statement": "The net stability of cytokine mRNAs depends on the relative intracellular concentrations of tristetraprolin and HuR, which change dynamically during immune responses due to differential expression kinetics—HuR is constitutively expressed while tristetraprolin is induced later following activation.",
+      "supporting_dois": [
+        "10.1002/cncr.23904",
+        "10.1074/jbc.m109511200",
+        "10.1074/jbc.m304856200",
+        "10.1074/jbc.m402059200",
+        "10.1074/jbc.m901229200",
+        "10.1111/j.1742-4658.2007.05632.x",
+        "10.1128/mcb.21.3.721-730.2001",
+        "10.15252/msb.20156628",
+        "10.4049/jimmunol.171.8.4369",
+        "10.4049/jimmunol.172.12.7263",
+        "10.4049/jimmunol.174.2.953",
+        "10.4049/jimmunol.177.7.4426"
+      ]
+    },
+    {
+      "statement": "Distinct protein architectures of tristetraprolin and HuR lead to different RNA structural recognition patterns, with tristetraprolin's tandem zinc fingers being sensitive to adenylate spacing while HuR forms cooperative oligomers through its RRM3 and hinge domains, creating a molecular basis for differential binding to polymorphic AU-rich elements.",
+      "supporting_dois": [
+        "10.1002/cbic.200400219",
+        "10.1073/pnas.1808696116",
+        "10.1074/jbc.m113.466326",
+        "10.1074/jbc.m301290200",
+        "10.1074/jbc.m402551200",
+        "10.1074/jbc.m500618200",
+        "10.1074/jbc.m701751200",
+        "10.1080/15476286.2014.996069",
+        "10.1128/mcb.21.3.721-730.2001",
+        "10.1128/mcb.22.20.7268-7278.2002",
+        "10.1186/gb-2014-15-1-r13",
+        "10.1371/journal.pbio.1000480",
+        "10.1371/journal.pcbi.1007852",
+        "10.1371/journal.pone.0141351",
+        "10.1515/bmc-2012-0016"
+      ]
+    },
+    {
+      "statement": "Natural sequence variations and local secondary structures in AU-rich elements generate graded binding preferences that allow post-transcriptional networks to interpret decay signals as context-specific regulatory outputs. Phylogenetic conservation of sequences flanking core AU-rich elements suggests selective pressure to maintain these regulatory mechanisms.",
+      "supporting_dois": [
+        "10.1002/cbic.200400219",
+        "10.1016/j.bbagrm.2017.12.006",
+        "10.1016/j.celrep.2023.112419",
+        "10.1038/s41467-021-25345-5",
+        "10.1038/s41467-022-31228-0",
+        "10.1073/pnas.91.4.1318",
+        "10.1074/jbc.271.21.12179",
+        "10.1074/jbc.m113.489559",
+        "10.1074/jbc.m307105200",
+        "10.1074/jbc.m500618200",
+        "10.1093/g3journal/jkab404",
+        "10.1093/nar/21.11.2761",
+        "10.1093/nar/gkaa465",
+        "10.1093/nar/gkq990",
+        "10.1093/nar/gks1453",
+        "10.1093/nar/gkv1238",
+        "10.1101/gad.1282305",
+        "10.1101/gad.14.10.1236",
+        "10.1128/mcb.11.6.3355-3364.1991",
+        "10.1128/mcb.14.12.7984-7995.1994",
+        "10.1128/mcb.17.8.4611",
+        "10.1128/mcb.23.18.6685-6693.2003",
+        "10.1371/journal.pone.0144409",
+        "10.7554/elife.33057"
+      ]
+    },
+    {
+      "statement": "Transcriptomic data from distinct inflammatory disease states reveal differential expression and stability of AU-rich element-containing cytokine mRNAs, providing physiological validation that polymorphic variations in these elements correlate with altered mRNA half-lives in pathological inflammation.",
+      "supporting_dois": [
+        "10.1038/mt.2008.163",
+        "10.1074/jbc.m112.362020",
+        "10.1093/g3journal/jkab404",
+        "10.1093/rheumatology/33.7.613",
+        "10.1128/mcb.01155-06",
+        "10.1128/mcb.14.12.8471",
+        "10.1128/mcb.14.12.8471-8482.1994",
+        "10.1128/mcb.15.4.2219",
+        "10.1128/mcb.17.8.4611",
+        "10.1136/annrheumdis-2016-211051.10",
+        "10.1186/s40246-022-00433-9",
+        "10.1371/journal.pone.0179762",
+        "10.15252/msb.20156628",
+        "10.4049/jimmunol.162.5.2457",
+        "10.4049/jimmunol.172.12.7263",
+        "10.4161/rna.27863"
+      ]
+    }
+  ]
+}
